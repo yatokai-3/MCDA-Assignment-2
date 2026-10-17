@@ -1,0 +1,1153 @@
+REF_AREA,country,profile_index,profile_label,direction,first_object,second_object,comprehensive_concordance,veto_criteria,non_discordance_D,credibility,lambda,first_outranks_second
+DZA,Algeria,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Algeria,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DZA,Algeria,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Algeria,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+DZA,Algeria,b1,Class 1,alternative_vs_profile,Algeria,Class 1,0.4046635432774046,"C2,C4",0.0,0.0,0.7,False
+DZA,Algeria,b1,Class 1,profile_vs_alternative,Class 1,Algeria,0.7181777001229533,C6,0.0,0.0,0.7,False
+DZA,Algeria,b2,Class 2,alternative_vs_profile,Algeria,Class 2,0.2818222998770465,"C2,C4",0.0,0.0,0.7,False
+DZA,Algeria,b2,Class 2,profile_vs_alternative,Class 2,Algeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DZA,Algeria,b3,Class 3,alternative_vs_profile,Algeria,Class 3,0.054870351900054876,"C2,C4",0.0,0.0,0.7,False
+DZA,Algeria,b3,Class 3,profile_vs_alternative,Class 3,Algeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DZA,Algeria,b4,Class 4,alternative_vs_profile,Algeria,Class 4,0.0,"C2,C4,C5",0.0,0.0,0.7,False
+DZA,Algeria,b4,Class 4,profile_vs_alternative,Class 4,Algeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DZA,Algeria,b5,Class 5,alternative_vs_profile,Algeria,Class 5,0.0,"C2,C4,C5",0.0,0.0,0.7,False
+DZA,Algeria,b5,Class 5,profile_vs_alternative,Class 5,Algeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AGO,Angola,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Angola,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AGO,Angola,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Angola,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+AGO,Angola,b1,Class 1,alternative_vs_profile,Angola,Class 1,0.7454042701567454,None,1.0,0.7454042701567454,0.7,True
+AGO,Angola,b1,Class 1,profile_vs_alternative,Class 1,Angola,0.7271692204185454,C2,0.0,0.0,0.7,False
+AGO,Angola,b2,Class 2,alternative_vs_profile,Angola,Class 2,0.3158375278087249,C6,0.0,0.0,0.7,False
+AGO,Angola,b2,Class 2,profile_vs_alternative,Class 2,Angola,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+AGO,Angola,b3,Class 3,alternative_vs_profile,Angola,Class 3,0.247024702470247,"C5,C6",0.0,0.0,0.7,False
+AGO,Angola,b3,Class 3,profile_vs_alternative,Class 3,Angola,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AGO,Angola,b4,Class 4,alternative_vs_profile,Angola,Class 4,0.10779259744156235,"C4,C5,C6",0.0,0.0,0.7,False
+AGO,Angola,b4,Class 4,profile_vs_alternative,Class 4,Angola,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AGO,Angola,b5,Class 5,alternative_vs_profile,Angola,Class 5,0.0,"C4,C5,C6",0.0,0.0,0.7,False
+AGO,Angola,b5,Class 5,profile_vs_alternative,Class 5,Angola,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ATG,Antigua and Barbuda,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Antigua and Barbuda,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ATG,Antigua and Barbuda,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Antigua and Barbuda,0.09993405757688067,"C2,C4,C6",0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b1,Class 1,alternative_vs_profile,Antigua and Barbuda,Class 1,0.809153642636991,None,1.0,0.809153642636991,0.7,True
+ATG,Antigua and Barbuda,b1,Class 1,profile_vs_alternative,Class 1,Antigua and Barbuda,0.5336533653365336,C2,0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b2,Class 2,alternative_vs_profile,Antigua and Barbuda,Class 2,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b2,Class 2,profile_vs_alternative,Class 2,Antigua and Barbuda,0.6389278927892789,None,1.0,0.6389278927892789,0.7,False
+ATG,Antigua and Barbuda,b3,Class 3,alternative_vs_profile,Antigua and Barbuda,Class 3,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b3,Class 3,profile_vs_alternative,Class 3,Antigua and Barbuda,0.8966987607851693,None,1.0,0.8966987607851693,0.7,True
+ATG,Antigua and Barbuda,b4,Class 4,alternative_vs_profile,Antigua and Barbuda,Class 4,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b4,Class 4,profile_vs_alternative,Class 4,Antigua and Barbuda,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ATG,Antigua and Barbuda,b5,Class 5,alternative_vs_profile,Antigua and Barbuda,Class 5,0.25525279800707346,"C5,C6",0.0,0.0,0.7,False
+ATG,Antigua and Barbuda,b5,Class 5,profile_vs_alternative,Class 5,Antigua and Barbuda,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARG,Argentina,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Argentina,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARG,Argentina,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Argentina,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ARG,Argentina,b1,Class 1,alternative_vs_profile,Argentina,Class 1,0.8549854985498548,C6,0.0,0.0,0.7,False
+ARG,Argentina,b1,Class 1,profile_vs_alternative,Class 1,Argentina,0.33133313331333125,"C2,C5",0.0,0.0,0.7,False
+ARG,Argentina,b2,Class 2,alternative_vs_profile,Argentina,Class 2,0.6686668666866685,C6,0.0,0.0,0.7,False
+ARG,Argentina,b2,Class 2,profile_vs_alternative,Class 2,Argentina,0.4716991699169916,C5,0.0,0.0,0.7,False
+ARG,Argentina,b3,Class 3,alternative_vs_profile,Argentina,Class 3,0.6686668666866685,C6,0.0,0.0,0.7,False
+ARG,Argentina,b3,Class 3,profile_vs_alternative,Class 3,Argentina,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARG,Argentina,b4,Class 4,alternative_vs_profile,Argentina,Class 4,0.30914909672785457,C6,0.0,0.0,0.7,False
+ARG,Argentina,b4,Class 4,profile_vs_alternative,Class 4,Argentina,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARG,Argentina,b5,Class 5,alternative_vs_profile,Argentina,Class 5,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+ARG,Argentina,b5,Class 5,profile_vs_alternative,Class 5,Argentina,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ABW,Aruba,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Aruba,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ABW,Aruba,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Aruba,0.11465761960811464,"C2,C4,C6",0.0,0.0,0.7,False
+ABW,Aruba,b1,Class 1,alternative_vs_profile,Aruba,Class 1,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+ABW,Aruba,b1,Class 1,profile_vs_alternative,Class 1,Aruba,0.3886388638863886,"C2,C6",0.0,0.0,0.7,False
+ABW,Aruba,b2,Class 2,alternative_vs_profile,Aruba,Class 2,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+ABW,Aruba,b2,Class 2,profile_vs_alternative,Class 2,Aruba,0.5816421642164216,None,1.0,0.5816421642164216,0.7,False
+ABW,Aruba,b3,Class 3,alternative_vs_profile,Aruba,Class 3,0.6113611361136113,C5,0.0,0.0,0.7,False
+ABW,Aruba,b3,Class 3,profile_vs_alternative,Class 3,Aruba,0.9865259253198044,None,1.0,0.9865259253198044,0.7,True
+ABW,Aruba,b4,Class 4,alternative_vs_profile,Aruba,Class 4,0.5350080462591713,C5,0.0,0.0,0.7,False
+ABW,Aruba,b4,Class 4,profile_vs_alternative,Class 4,Aruba,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ABW,Aruba,b5,Class 5,alternative_vs_profile,Aruba,Class 5,0.22716055389322712,C5,0.0,0.0,0.7,False
+ABW,Aruba,b5,Class 5,profile_vs_alternative,Class 5,Aruba,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AUS,Australia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Australia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AUS,Australia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Australia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+AUS,Australia,b1,Class 1,alternative_vs_profile,Australia,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AUS,Australia,b1,Class 1,profile_vs_alternative,Class 1,Australia,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+AUS,Australia,b2,Class 2,alternative_vs_profile,Australia,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+AUS,Australia,b2,Class 2,profile_vs_alternative,Class 2,Australia,0.15765422696115763,"C2,C5",0.0,0.0,0.7,False
+AUS,Australia,b3,Class 3,alternative_vs_profile,Australia,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+AUS,Australia,b3,Class 3,profile_vs_alternative,Class 3,Australia,0.32623203178823434,"C2,C5",0.0,0.0,0.7,False
+AUS,Australia,b4,Class 4,alternative_vs_profile,Australia,Class 4,0.805492313937276,None,1.0,0.805492313937276,0.7,True
+AUS,Australia,b4,Class 4,profile_vs_alternative,Class 4,Australia,0.7883862931747718,None,1.0,0.7883862931747718,0.7,True
+AUS,Australia,b5,Class 5,alternative_vs_profile,Australia,Class 5,0.6627095141946626,None,1.0,0.6627095141946626,0.7,False
+AUS,Australia,b5,Class 5,profile_vs_alternative,Class 5,Australia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHS,"Bahamas, The",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Bahamas, The",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHS,"Bahamas, The",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Bahamas, The",0.14212838396139077,"C2,C4,C6",0.0,0.0,0.7,False
+BHS,"Bahamas, The",b1,Class 1,alternative_vs_profile,"Bahamas, The",Class 1,0.6526652665266526,C6,0.0,0.0,0.7,False
+BHS,"Bahamas, The",b1,Class 1,profile_vs_alternative,Class 1,"Bahamas, The",0.549110911091109,None,1.0,0.549110911091109,0.7,False
+BHS,"Bahamas, The",b2,Class 2,alternative_vs_profile,"Bahamas, The",Class 2,0.6526652665266526,"C5,C6",0.0,0.0,0.7,False
+BHS,"Bahamas, The",b2,Class 2,profile_vs_alternative,Class 2,"Bahamas, The",0.8000065740839817,None,1.0,0.8000065740839817,0.7,True
+BHS,"Bahamas, The",b3,Class 3,alternative_vs_profile,"Bahamas, The",Class 3,0.5478484911428204,"C5,C6",0.0,0.0,0.7,False
+BHS,"Bahamas, The",b3,Class 3,profile_vs_alternative,Class 3,"Bahamas, The",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHS,"Bahamas, The",b4,Class 4,alternative_vs_profile,"Bahamas, The",Class 4,0.14913891389138914,"C5,C6",0.0,0.0,0.7,False
+BHS,"Bahamas, The",b4,Class 4,profile_vs_alternative,Class 4,"Bahamas, The",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHS,"Bahamas, The",b5,Class 5,alternative_vs_profile,"Bahamas, The",Class 5,0.00877287728772874,"C2,C5,C6",0.0,0.0,0.7,False
+BHS,"Bahamas, The",b5,Class 5,profile_vs_alternative,Class 5,"Bahamas, The",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHR,Bahrain,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Bahrain,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHR,Bahrain,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Bahrain,0.05732880980405732,"C2,C4,C5,C6",0.0,0.0,0.7,False
+BHR,Bahrain,b1,Class 1,alternative_vs_profile,Bahrain,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+BHR,Bahrain,b1,Class 1,profile_vs_alternative,Class 1,Bahrain,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+BHR,Bahrain,b2,Class 2,alternative_vs_profile,Bahrain,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+BHR,Bahrain,b2,Class 2,profile_vs_alternative,Class 2,Bahrain,0.4448144814481448,None,1.0,0.4448144814481448,0.7,False
+BHR,Bahrain,b3,Class 3,alternative_vs_profile,Bahrain,Class 3,0.6285719481039012,None,1.0,0.6285719481039012,0.7,False
+BHR,Bahrain,b3,Class 3,profile_vs_alternative,Class 3,Bahrain,0.9074826401559073,None,1.0,0.9074826401559073,0.7,True
+BHR,Bahrain,b4,Class 4,alternative_vs_profile,Bahrain,Class 4,0.5709389120730255,C5,0.0,0.0,0.7,False
+BHR,Bahrain,b4,Class 4,profile_vs_alternative,Class 4,Bahrain,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BHR,Bahrain,b5,Class 5,alternative_vs_profile,Bahrain,Class 5,0.31338539259331333,C5,0.0,0.0,0.7,False
+BHR,Bahrain,b5,Class 5,profile_vs_alternative,Class 5,Bahrain,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BGD,Bangladesh,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Bangladesh,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BGD,Bangladesh,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Bangladesh,0.08599321470608598,"C2,C4,C5,C6",0.0,0.0,0.7,False
+BGD,Bangladesh,b1,Class 1,alternative_vs_profile,Bangladesh,Class 1,0.6765054883866765,None,1.0,0.6765054883866765,0.7,False
+BGD,Bangladesh,b1,Class 1,profile_vs_alternative,Class 1,Bangladesh,0.5506550655065505,None,1.0,0.5506550655065505,0.7,False
+BGD,Bangladesh,b2,Class 2,alternative_vs_profile,Bangladesh,Class 2,0.6686668666866685,C6,0.0,0.0,0.7,False
+BGD,Bangladesh,b2,Class 2,profile_vs_alternative,Class 2,Bangladesh,0.7799234468901435,None,1.0,0.7799234468901435,0.7,True
+BGD,Bangladesh,b3,Class 3,alternative_vs_profile,Bangladesh,Class 3,0.4575737573757376,C6,0.0,0.0,0.7,False
+BGD,Bangladesh,b3,Class 3,profile_vs_alternative,Class 3,Bangladesh,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BGD,Bangladesh,b4,Class 4,alternative_vs_profile,Bangladesh,Class 4,0.1418349107638036,"C5,C6",0.0,0.0,0.7,False
+BGD,Bangladesh,b4,Class 4,profile_vs_alternative,Class 4,Bangladesh,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BGD,Bangladesh,b5,Class 5,alternative_vs_profile,Bangladesh,Class 5,0.0,"C5,C6",0.0,0.0,0.7,False
+BGD,Bangladesh,b5,Class 5,profile_vs_alternative,Class 5,Bangladesh,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BRB,Barbados,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Barbados,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BRB,Barbados,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Barbados,0.0327562167981504,"C2,C4,C6",0.0,0.0,0.7,False
+BRB,Barbados,b1,Class 1,alternative_vs_profile,Barbados,Class 1,0.794157794157794,None,1.0,0.794157794157794,0.7,True
+BRB,Barbados,b1,Class 1,profile_vs_alternative,Class 1,Barbados,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+BRB,Barbados,b2,Class 2,alternative_vs_profile,Barbados,Class 2,0.46634663466346626,C6,0.0,0.0,0.7,False
+BRB,Barbados,b2,Class 2,profile_vs_alternative,Class 2,Barbados,0.7709407304366798,None,1.0,0.7709407304366798,0.7,True
+BRB,Barbados,b3,Class 3,alternative_vs_profile,Barbados,Class 3,0.3698449844984498,"C5,C6",0.0,0.0,0.7,False
+BRB,Barbados,b3,Class 3,profile_vs_alternative,Class 3,Barbados,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BRB,Barbados,b4,Class 4,alternative_vs_profile,Barbados,Class 4,0.07186173162770829,"C5,C6",0.0,0.0,0.7,False
+BRB,Barbados,b4,Class 4,profile_vs_alternative,Class 4,Barbados,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BRB,Barbados,b5,Class 5,alternative_vs_profile,Barbados,Class 5,0.0,"C5,C6",0.0,0.0,0.7,False
+BRB,Barbados,b5,Class 5,profile_vs_alternative,Class 5,Barbados,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Belgium,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Belgium,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+BEL,Belgium,b1,Class 1,alternative_vs_profile,Belgium,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b1,Class 1,profile_vs_alternative,Class 1,Belgium,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+BEL,Belgium,b2,Class 2,alternative_vs_profile,Belgium,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b2,Class 2,profile_vs_alternative,Class 2,Belgium,0.0,"C2,C5",0.0,0.0,0.7,False
+BEL,Belgium,b3,Class 3,alternative_vs_profile,Belgium,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b3,Class 3,profile_vs_alternative,Class 3,Belgium,0.18950840538599312,C5,0.0,0.0,0.7,False
+BEL,Belgium,b4,Class 4,alternative_vs_profile,Belgium,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BEL,Belgium,b4,Class 4,profile_vs_alternative,Class 4,Belgium,0.5411781178117812,C5,0.0,0.0,0.7,False
+BEL,Belgium,b5,Class 5,alternative_vs_profile,Belgium,Class 5,0.7606669757884879,None,1.0,0.7606669757884879,0.7,True
+BEL,Belgium,b5,Class 5,profile_vs_alternative,Class 5,Belgium,0.6113611361136113,C5,0.0,0.0,0.7,False
+BRA,Brazil,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Brazil,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+BRA,Brazil,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Brazil,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+BRA,Brazil,b1,Class 1,alternative_vs_profile,Brazil,Class 1,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+BRA,Brazil,b1,Class 1,profile_vs_alternative,Class 1,Brazil,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+BRA,Brazil,b2,Class 2,alternative_vs_profile,Brazil,Class 2,0.8549854985498548,C6,0.0,0.0,0.7,False
+BRA,Brazil,b2,Class 2,profile_vs_alternative,Class 2,Brazil,0.4383432189372783,C5,0.0,0.0,0.7,False
+BRA,Brazil,b3,Class 3,alternative_vs_profile,Brazil,Class 3,0.7259956764907258,C6,0.0,0.0,0.7,False
+BRA,Brazil,b3,Class 3,profile_vs_alternative,Class 3,Brazil,0.7976797679767975,C5,0.0,0.0,0.7,False
+BRA,Brazil,b4,Class 4,alternative_vs_profile,Brazil,Class 4,0.5743483439253015,C6,0.0,0.0,0.7,False
+BRA,Brazil,b4,Class 4,profile_vs_alternative,Class 4,Brazil,0.9524850880810005,None,1.0,0.9524850880810005,0.7,True
+BRA,Brazil,b5,Class 5,alternative_vs_profile,Brazil,Class 5,0.4216421642164216,C6,0.0,0.0,0.7,False
+BRA,Brazil,b5,Class 5,profile_vs_alternative,Class 5,Brazil,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KHM,Cambodia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Cambodia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KHM,Cambodia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Cambodia,0.1433220245101433,"C2,C4,C5,C6",0.0,0.0,0.7,False
+KHM,Cambodia,b1,Class 1,alternative_vs_profile,Cambodia,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+KHM,Cambodia,b1,Class 1,profile_vs_alternative,Class 1,Cambodia,0.3255325532553255,"C2,C6",0.0,0.0,0.7,False
+KHM,Cambodia,b2,Class 2,alternative_vs_profile,Cambodia,Class 2,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+KHM,Cambodia,b2,Class 2,profile_vs_alternative,Class 2,Cambodia,0.6424826266410424,C2,0.0,0.0,0.7,False
+KHM,Cambodia,b3,Class 3,alternative_vs_profile,Cambodia,Class 3,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+KHM,Cambodia,b3,Class 3,profile_vs_alternative,Class 3,Cambodia,0.7978888797970705,None,1.0,0.7978888797970705,0.7,True
+KHM,Cambodia,b4,Class 4,alternative_vs_profile,Cambodia,Class 4,0.5447328516635446,C5,0.0,0.0,0.7,False
+KHM,Cambodia,b4,Class 4,profile_vs_alternative,Class 4,Cambodia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KHM,Cambodia,b5,Class 5,alternative_vs_profile,Cambodia,Class 5,0.3540626789951722,C5,0.0,0.0,0.7,False
+KHM,Cambodia,b5,Class 5,profile_vs_alternative,Class 5,Cambodia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CMR,Cameroon,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Cameroon,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CMR,Cameroon,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Cameroon,0.247024702470247,"C4,C5,C6",0.0,0.0,0.7,False
+CMR,Cameroon,b1,Class 1,alternative_vs_profile,Cameroon,Class 1,0.7120300265320649,C2,0.0,0.0,0.7,False
+CMR,Cameroon,b1,Class 1,profile_vs_alternative,Class 1,Cameroon,0.7041504150415041,C5,0.0,0.0,0.7,False
+CMR,Cameroon,b2,Class 2,alternative_vs_profile,Cameroon,Class 2,0.4417749467254417,C2,0.0,0.0,0.7,False
+CMR,Cameroon,b2,Class 2,profile_vs_alternative,Class 2,Cameroon,0.9368936893689368,None,1.0,0.9368936893689368,0.7,True
+CMR,Cameroon,b3,Class 3,alternative_vs_profile,Cameroon,Class 3,0.2824282428242824,C2,0.0,0.0,0.7,False
+CMR,Cameroon,b3,Class 3,profile_vs_alternative,Class 3,Cameroon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CMR,Cameroon,b4,Class 4,alternative_vs_profile,Cameroon,Class 4,0.2193219321932193,"C2,C5",0.0,0.0,0.7,False
+CMR,Cameroon,b4,Class 4,profile_vs_alternative,Class 4,Cameroon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CMR,Cameroon,b5,Class 5,alternative_vs_profile,Cameroon,Class 5,0.07895589558955898,"C2,C5,C6",0.0,0.0,0.7,False
+CMR,Cameroon,b5,Class 5,profile_vs_alternative,Class 5,Cameroon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CAN,Canada,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Canada,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CAN,Canada,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Canada,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+CAN,Canada,b1,Class 1,alternative_vs_profile,Canada,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CAN,Canada,b1,Class 1,profile_vs_alternative,Class 1,Canada,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+CAN,Canada,b2,Class 2,alternative_vs_profile,Canada,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CAN,Canada,b2,Class 2,profile_vs_alternative,Class 2,Canada,0.01433220245101433,"C2,C5",0.0,0.0,0.7,False
+CAN,Canada,b3,Class 3,alternative_vs_profile,Canada,Class 3,0.9570033926469568,None,1.0,0.9570033926469568,0.7,True
+CAN,Canada,b3,Class 3,profile_vs_alternative,Class 3,Canada,0.4305702019833433,C5,0.0,0.0,0.7,False
+CAN,Canada,b4,Class 4,alternative_vs_profile,Canada,Class 4,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+CAN,Canada,b4,Class 4,profile_vs_alternative,Class 4,Canada,0.7976797679767975,C5,0.0,0.0,0.7,False
+CAN,Canada,b5,Class 5,alternative_vs_profile,Canada,Class 5,0.6582849931184763,None,1.0,0.6582849931184763,0.7,False
+CAN,Canada,b5,Class 5,profile_vs_alternative,Class 5,Canada,0.7976797679767975,C5,0.0,0.0,0.7,False
+CHL,Chile,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Chile,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHL,Chile,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Chile,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+CHL,Chile,b1,Class 1,alternative_vs_profile,Chile,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHL,Chile,b1,Class 1,profile_vs_alternative,Class 1,Chile,0.18631863186318628,C2,0.0,0.0,0.7,False
+CHL,Chile,b2,Class 2,alternative_vs_profile,Chile,Class 2,0.786246192186786,None,1.0,0.786246192186786,0.7,True
+CHL,Chile,b2,Class 2,profile_vs_alternative,Class 2,Chile,0.5862906290629062,C2,0.0,0.0,0.7,False
+CHL,Chile,b3,Class 3,alternative_vs_profile,Chile,Class 3,0.46634663466346626,None,1.0,0.46634663466346626,0.7,False
+CHL,Chile,b3,Class 3,profile_vs_alternative,Class 3,Chile,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+CHL,Chile,b4,Class 4,alternative_vs_profile,Chile,Class 4,0.46634663466346626,C5,0.0,0.0,0.7,False
+CHL,Chile,b4,Class 4,profile_vs_alternative,Class 4,Chile,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHL,Chile,b5,Class 5,alternative_vs_profile,Chile,Class 5,0.4618552764367345,"C5,C6",0.0,0.0,0.7,False
+CHL,Chile,b5,Class 5,profile_vs_alternative,Class 5,Chile,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHN,China,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,China,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHN,China,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),China,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+CHN,China,b1,Class 1,alternative_vs_profile,China,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHN,China,b1,Class 1,profile_vs_alternative,Class 1,China,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+CHN,China,b2,Class 2,alternative_vs_profile,China,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CHN,China,b2,Class 2,profile_vs_alternative,Class 2,China,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+CHN,China,b3,Class 3,alternative_vs_profile,China,Class 3,0.9725648240499724,None,1.0,0.9725648240499724,0.7,True
+CHN,China,b3,Class 3,profile_vs_alternative,Class 3,China,0.41113856840229474,C5,0.0,0.0,0.7,False
+CHN,China,b4,Class 4,alternative_vs_profile,China,Class 4,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+CHN,China,b4,Class 4,profile_vs_alternative,Class 4,China,0.6113611361136113,C5,0.0,0.0,0.7,False
+CHN,China,b5,Class 5,alternative_vs_profile,China,Class 5,0.661857094800389,None,1.0,0.661857094800389,0.7,False
+CHN,China,b5,Class 5,profile_vs_alternative,Class 5,China,0.6113611361136113,C5,0.0,0.0,0.7,False
+COL,Colombia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Colombia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COL,Colombia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Colombia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+COL,Colombia,b1,Class 1,alternative_vs_profile,Colombia,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COL,Colombia,b1,Class 1,profile_vs_alternative,Class 1,Colombia,0.18887888788878887,"C2,C5",0.0,0.0,0.7,False
+COL,Colombia,b2,Class 2,alternative_vs_profile,Colombia,Class 2,0.8549854985498548,C6,0.0,0.0,0.7,False
+COL,Colombia,b2,Class 2,profile_vs_alternative,Class 2,Colombia,0.3643364336433643,None,1.0,0.3643364336433643,0.7,False
+COL,Colombia,b3,Class 3,alternative_vs_profile,Colombia,Class 3,0.8406431552246132,C6,0.0,0.0,0.7,False
+COL,Colombia,b3,Class 3,profile_vs_alternative,Class 3,Colombia,0.8751128506515808,None,1.0,0.8751128506515808,0.7,True
+COL,Colombia,b4,Class 4,alternative_vs_profile,Colombia,Class 4,0.4433486129361599,"C5,C6",0.0,0.0,0.7,False
+COL,Colombia,b4,Class 4,profile_vs_alternative,Class 4,Colombia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COL,Colombia,b5,Class 5,alternative_vs_profile,Colombia,Class 5,0.16668466846684668,"C5,C6",0.0,0.0,0.7,False
+COL,Colombia,b5,Class 5,profile_vs_alternative,Class 5,Colombia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COD,"Congo, Dem. Rep.",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Congo, Dem. Rep.",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COD,"Congo, Dem. Rep.",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Congo, Dem. Rep.",0.4333433343334333,"C4,C5,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b1,Class 1,alternative_vs_profile,"Congo, Dem. Rep.",Class 1,0.3151844596224328,"C2,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b1,Class 1,profile_vs_alternative,Class 1,"Congo, Dem. Rep.",0.8842564256425642,None,1.0,0.8842564256425642,0.7,True
+COD,"Congo, Dem. Rep.",b2,Class 2,alternative_vs_profile,"Congo, Dem. Rep.",Class 2,0.2824282428242824,"C2,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b2,Class 2,profile_vs_alternative,Class 2,"Congo, Dem. Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COD,"Congo, Dem. Rep.",b3,Class 3,alternative_vs_profile,"Congo, Dem. Rep.",Class 3,0.2193219321932193,"C2,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b3,Class 3,profile_vs_alternative,Class 3,"Congo, Dem. Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COD,"Congo, Dem. Rep.",b4,Class 4,alternative_vs_profile,"Congo, Dem. Rep.",Class 4,0.1842304230423042,"C2,C5,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b4,Class 4,profile_vs_alternative,Class 4,"Congo, Dem. Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+COD,"Congo, Dem. Rep.",b5,Class 5,alternative_vs_profile,"Congo, Dem. Rep.",Class 5,0.04386438643864386,"C2,C5,C6",0.0,0.0,0.7,False
+COD,"Congo, Dem. Rep.",b5,Class 5,profile_vs_alternative,Class 5,"Congo, Dem. Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CRI,Costa Rica,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Costa Rica,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CRI,Costa Rica,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Costa Rica,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+CRI,Costa Rica,b1,Class 1,alternative_vs_profile,Costa Rica,Class 1,0.8549854985498548,C6,0.0,0.0,0.7,False
+CRI,Costa Rica,b1,Class 1,profile_vs_alternative,Class 1,Costa Rica,0.145014501450145,None,1.0,0.145014501450145,0.7,False
+CRI,Costa Rica,b2,Class 2,alternative_vs_profile,Costa Rica,Class 2,0.8549854985498548,C6,0.0,0.0,0.7,False
+CRI,Costa Rica,b2,Class 2,profile_vs_alternative,Class 2,Costa Rica,0.7801332860558783,None,1.0,0.7801332860558783,0.7,True
+CRI,Costa Rica,b3,Class 3,alternative_vs_profile,Costa Rica,Class 3,0.46634663466346626,C6,0.0,0.0,0.7,False
+CRI,Costa Rica,b3,Class 3,profile_vs_alternative,Class 3,Costa Rica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CRI,Costa Rica,b4,Class 4,alternative_vs_profile,Costa Rica,Class 4,0.27321823091400044,"C5,C6",0.0,0.0,0.7,False
+CRI,Costa Rica,b4,Class 4,profile_vs_alternative,Class 4,Costa Rica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CRI,Costa Rica,b5,Class 5,alternative_vs_profile,Costa Rica,Class 5,0.21932193219321924,"C5,C6",0.0,0.0,0.7,False
+CRI,Costa Rica,b5,Class 5,profile_vs_alternative,Class 5,Costa Rica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HRV,Croatia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Croatia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HRV,Croatia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Croatia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+HRV,Croatia,b1,Class 1,alternative_vs_profile,Croatia,Class 1,0.8710101779408708,None,1.0,0.8710101779408708,0.7,True
+HRV,Croatia,b1,Class 1,profile_vs_alternative,Class 1,Croatia,0.19509150915091503,"C2,C5,C6",0.0,0.0,0.7,False
+HRV,Croatia,b2,Class 2,alternative_vs_profile,Croatia,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+HRV,Croatia,b2,Class 2,profile_vs_alternative,Class 2,Croatia,0.5448544854485448,"C2,C5",0.0,0.0,0.7,False
+HRV,Croatia,b3,Class 3,alternative_vs_profile,Croatia,Class 3,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+HRV,Croatia,b3,Class 3,profile_vs_alternative,Class 3,Croatia,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+HRV,Croatia,b4,Class 4,alternative_vs_profile,Croatia,Class 4,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+HRV,Croatia,b4,Class 4,profile_vs_alternative,Class 4,Croatia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HRV,Croatia,b5,Class 5,alternative_vs_profile,Croatia,Class 5,0.40609046654051156,C5,0.0,0.0,0.7,False
+HRV,Croatia,b5,Class 5,profile_vs_alternative,Class 5,Croatia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CYP,Cyprus,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Cyprus,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CYP,Cyprus,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Cyprus,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+CYP,Cyprus,b1,Class 1,alternative_vs_profile,Cyprus,Class 1,0.8710101779408708,None,1.0,0.8710101779408708,0.7,True
+CYP,Cyprus,b1,Class 1,profile_vs_alternative,Class 1,Cyprus,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+CYP,Cyprus,b2,Class 2,alternative_vs_profile,Cyprus,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+CYP,Cyprus,b2,Class 2,profile_vs_alternative,Class 2,Cyprus,0.18631863186318628,C2,0.0,0.0,0.7,False
+CYP,Cyprus,b3,Class 3,alternative_vs_profile,Cyprus,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+CYP,Cyprus,b3,Class 3,profile_vs_alternative,Class 3,Cyprus,0.5687448744874487,None,1.0,0.5687448744874487,0.7,False
+CYP,Cyprus,b4,Class 4,alternative_vs_profile,Cyprus,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+CYP,Cyprus,b4,Class 4,profile_vs_alternative,Class 4,Cyprus,0.8440614970587967,None,1.0,0.8440614970587967,0.7,True
+CYP,Cyprus,b5,Class 5,alternative_vs_profile,Cyprus,Class 5,0.5133783648635133,C5,0.0,0.0,0.7,False
+CYP,Cyprus,b5,Class 5,profile_vs_alternative,Class 5,Cyprus,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CIV,Côte d’Ivoire,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Côte d’Ivoire,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CIV,Côte d’Ivoire,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Côte d’Ivoire,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+CIV,Côte d’Ivoire,b1,Class 1,alternative_vs_profile,Côte d’Ivoire,Class 1,0.9122712271227122,None,1.0,0.9122712271227122,0.7,True
+CIV,Côte d’Ivoire,b1,Class 1,profile_vs_alternative,Class 1,Côte d’Ivoire,0.3090311704967288,C6,0.0,0.0,0.7,False
+CIV,Côte d’Ivoire,b2,Class 2,alternative_vs_profile,Côte d’Ivoire,Class 2,0.7053111728285126,None,1.0,0.7053111728285126,0.7,True
+CIV,Côte d’Ivoire,b2,Class 2,profile_vs_alternative,Class 2,Côte d’Ivoire,0.8153672861143606,None,1.0,0.8153672861143606,0.7,True
+CIV,Côte d’Ivoire,b3,Class 3,alternative_vs_profile,Côte d’Ivoire,Class 3,0.392039203920392,C5,0.0,0.0,0.7,False
+CIV,Côte d’Ivoire,b3,Class 3,profile_vs_alternative,Class 3,Côte d’Ivoire,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CIV,Côte d’Ivoire,b4,Class 4,alternative_vs_profile,Côte d’Ivoire,Class 4,0.03919310850003918,C5,0.0,0.0,0.7,False
+CIV,Côte d’Ivoire,b4,Class 4,profile_vs_alternative,Class 4,Côte d’Ivoire,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+CIV,Côte d’Ivoire,b5,Class 5,alternative_vs_profile,Côte d’Ivoire,Class 5,0.0,"C2,C4,C5",0.0,0.0,0.7,False
+CIV,Côte d’Ivoire,b5,Class 5,profile_vs_alternative,Class 5,Côte d’Ivoire,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DNK,Denmark,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Denmark,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DNK,Denmark,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Denmark,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+DNK,Denmark,b1,Class 1,alternative_vs_profile,Denmark,Class 1,0.9283389877449282,None,1.0,0.9283389877449282,0.7,True
+DNK,Denmark,b1,Class 1,profile_vs_alternative,Class 1,Denmark,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+DNK,Denmark,b2,Class 2,alternative_vs_profile,Denmark,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+DNK,Denmark,b2,Class 2,profile_vs_alternative,Class 2,Denmark,0.18631863186318628,"C2,C5",0.0,0.0,0.7,False
+DNK,Denmark,b3,Class 3,alternative_vs_profile,Denmark,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+DNK,Denmark,b3,Class 3,profile_vs_alternative,Class 3,Denmark,0.35803915526687796,C5,0.0,0.0,0.7,False
+DNK,Denmark,b4,Class 4,alternative_vs_profile,Denmark,Class 4,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+DNK,Denmark,b4,Class 4,profile_vs_alternative,Class 4,Denmark,0.7976797679767975,C5,0.0,0.0,0.7,False
+DNK,Denmark,b5,Class 5,alternative_vs_profile,Denmark,Class 5,0.8002072934566182,None,1.0,0.8002072934566182,0.7,True
+DNK,Denmark,b5,Class 5,profile_vs_alternative,Class 5,Denmark,0.8222469305754103,None,1.0,0.8222469305754103,0.7,True
+DOM,Dominican Republic,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Dominican Republic,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DOM,Dominican Republic,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Dominican Republic,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+DOM,Dominican Republic,b1,Class 1,alternative_vs_profile,Dominican Republic,Class 1,0.8549854985498548,C6,0.0,0.0,0.7,False
+DOM,Dominican Republic,b1,Class 1,profile_vs_alternative,Class 1,Dominican Republic,0.259458373644851,C2,0.0,0.0,0.7,False
+DOM,Dominican Republic,b2,Class 2,alternative_vs_profile,Dominican Republic,Class 2,0.7636568469681192,C6,0.0,0.0,0.7,False
+DOM,Dominican Republic,b2,Class 2,profile_vs_alternative,Class 2,Dominican Republic,0.5666566656665666,None,1.0,0.5666566656665666,0.7,False
+DOM,Dominican Republic,b3,Class 3,alternative_vs_profile,Dominican Republic,Class 3,0.6383330640756383,"C5,C6",0.0,0.0,0.7,False
+DOM,Dominican Republic,b3,Class 3,profile_vs_alternative,Class 3,Dominican Republic,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DOM,Dominican Republic,b4,Class 4,alternative_vs_profile,Dominican Republic,Class 4,0.32711452963478166,"C5,C6",0.0,0.0,0.7,False
+DOM,Dominican Republic,b4,Class 4,profile_vs_alternative,Class 4,Dominican Republic,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DOM,Dominican Republic,b5,Class 5,alternative_vs_profile,Dominican Republic,Class 5,0.2017761776177618,"C5,C6",0.0,0.0,0.7,False
+DOM,Dominican Republic,b5,Class 5,profile_vs_alternative,Class 5,Dominican Republic,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ECU,Ecuador,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Ecuador,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ECU,Ecuador,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Ecuador,0.145014501450145,"C2,C4",0.0,0.0,0.7,False
+ECU,Ecuador,b1,Class 1,alternative_vs_profile,Ecuador,Class 1,0.8549854985498548,C6,0.0,0.0,0.7,False
+ECU,Ecuador,b1,Class 1,profile_vs_alternative,Class 1,Ecuador,0.2870767076707671,C2,0.0,0.0,0.7,False
+ECU,Ecuador,b2,Class 2,alternative_vs_profile,Ecuador,Class 2,0.7918791879187917,C6,0.0,0.0,0.7,False
+ECU,Ecuador,b2,Class 2,profile_vs_alternative,Class 2,Ecuador,0.7120300265320649,None,1.0,0.7120300265320649,0.7,True
+ECU,Ecuador,b3,Class 3,alternative_vs_profile,Ecuador,Class 3,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+ECU,Ecuador,b3,Class 3,profile_vs_alternative,Class 3,Ecuador,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ECU,Ecuador,b4,Class 4,alternative_vs_profile,Ecuador,Class 4,0.32711452963478166,"C5,C6",0.0,0.0,0.7,False
+ECU,Ecuador,b4,Class 4,profile_vs_alternative,Class 4,Ecuador,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ECU,Ecuador,b5,Class 5,alternative_vs_profile,Ecuador,Class 5,0.13159315931593155,"C5,C6",0.0,0.0,0.7,False
+ECU,Ecuador,b5,Class 5,profile_vs_alternative,Class 5,Ecuador,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EGY,"Egypt, Arab Rep.",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Egypt, Arab Rep.",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EGY,"Egypt, Arab Rep.",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Egypt, Arab Rep.",0.0,"C2,C5,C6",0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b1,Class 1,alternative_vs_profile,"Egypt, Arab Rep.",Class 1,0.802505341443235,None,1.0,0.802505341443235,0.7,True
+EGY,"Egypt, Arab Rep.",b1,Class 1,profile_vs_alternative,Class 1,"Egypt, Arab Rep.",0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b2,Class 2,alternative_vs_profile,"Egypt, Arab Rep.",Class 2,0.5965323805107783,None,1.0,0.5965323805107783,0.7,False
+EGY,"Egypt, Arab Rep.",b2,Class 2,profile_vs_alternative,Class 2,"Egypt, Arab Rep.",0.5212169865635211,C5,0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b3,Class 3,alternative_vs_profile,"Egypt, Arab Rep.",Class 3,0.5336533653365336,C2,0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b3,Class 3,profile_vs_alternative,Class 3,"Egypt, Arab Rep.",0.7833475655257833,C5,0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b4,Class 4,alternative_vs_profile,"Egypt, Arab Rep.",Class 4,0.3042223141233042,C2,0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b4,Class 4,profile_vs_alternative,Class 4,"Egypt, Arab Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EGY,"Egypt, Arab Rep.",b5,Class 5,alternative_vs_profile,"Egypt, Arab Rep.",Class 5,0.15725743697364386,"C2,C4",0.0,0.0,0.7,False
+EGY,"Egypt, Arab Rep.",b5,Class 5,profile_vs_alternative,Class 5,"Egypt, Arab Rep.",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SLV,El Salvador,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,El Salvador,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SLV,El Salvador,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),El Salvador,0.18631863186318628,"C2,C4,C6",0.0,0.0,0.7,False
+SLV,El Salvador,b1,Class 1,alternative_vs_profile,El Salvador,Class 1,0.682656500944212,None,1.0,0.682656500944212,0.7,False
+SLV,El Salvador,b1,Class 1,profile_vs_alternative,Class 1,El Salvador,0.3886388638863886,"C2,C6",0.0,0.0,0.7,False
+SLV,El Salvador,b2,Class 2,alternative_vs_profile,El Salvador,Class 2,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+SLV,El Salvador,b2,Class 2,profile_vs_alternative,Class 2,El Salvador,0.5017520130391416,None,1.0,0.5017520130391416,0.7,False
+SLV,El Salvador,b3,Class 3,alternative_vs_profile,El Salvador,Class 3,0.6113611361136113,C5,0.0,0.0,0.7,False
+SLV,El Salvador,b3,Class 3,profile_vs_alternative,Class 3,El Salvador,0.9865259253198044,None,1.0,0.9865259253198044,0.7,True
+SLV,El Salvador,b4,Class 4,alternative_vs_profile,El Salvador,Class 4,0.5350080462591713,C5,0.0,0.0,0.7,False
+SLV,El Salvador,b4,Class 4,profile_vs_alternative,Class 4,El Salvador,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SLV,El Salvador,b5,Class 5,alternative_vs_profile,El Salvador,Class 5,0.2193219321932193,C5,0.0,0.0,0.7,False
+SLV,El Salvador,b5,Class 5,profile_vs_alternative,Class 5,El Salvador,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EST,Estonia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Estonia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EST,Estonia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Estonia,0.1433220245101433,"C2,C4,C5,C6",0.0,0.0,0.7,False
+EST,Estonia,b1,Class 1,alternative_vs_profile,Estonia,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+EST,Estonia,b1,Class 1,profile_vs_alternative,Class 1,Estonia,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+EST,Estonia,b2,Class 2,alternative_vs_profile,Estonia,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+EST,Estonia,b2,Class 2,profile_vs_alternative,Class 2,Estonia,0.343078307830783,C2,0.0,0.0,0.7,False
+EST,Estonia,b3,Class 3,alternative_vs_profile,Estonia,Class 3,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+EST,Estonia,b3,Class 3,profile_vs_alternative,Class 3,Estonia,0.6443511378164842,None,1.0,0.6443511378164842,0.7,False
+EST,Estonia,b4,Class 4,alternative_vs_profile,Estonia,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+EST,Estonia,b4,Class 4,profile_vs_alternative,Class 4,Estonia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+EST,Estonia,b5,Class 5,alternative_vs_profile,Estonia,Class 5,0.5681636959764772,C5,0.0,0.0,0.7,False
+EST,Estonia,b5,Class 5,profile_vs_alternative,Class 5,Estonia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FIN,Finland,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Finland,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FIN,Finland,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Finland,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+FIN,Finland,b1,Class 1,alternative_vs_profile,Finland,Class 1,0.8710101779408708,None,1.0,0.8710101779408708,0.7,True
+FIN,Finland,b1,Class 1,profile_vs_alternative,Class 1,Finland,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+FIN,Finland,b2,Class 2,alternative_vs_profile,Finland,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+FIN,Finland,b2,Class 2,profile_vs_alternative,Class 2,Finland,0.18631863186318628,"C2,C5",0.0,0.0,0.7,False
+FIN,Finland,b3,Class 3,alternative_vs_profile,Finland,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+FIN,Finland,b3,Class 3,profile_vs_alternative,Class 3,Finland,0.5149797332674444,None,1.0,0.5149797332674444,0.7,False
+FIN,Finland,b4,Class 4,alternative_vs_profile,Finland,Class 4,0.7849966814863303,None,1.0,0.7849966814863303,0.7,True
+FIN,Finland,b4,Class 4,profile_vs_alternative,Class 4,Finland,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FIN,Finland,b5,Class 5,alternative_vs_profile,Finland,Class 5,0.4983169656754662,None,1.0,0.4983169656754662,0.7,False
+FIN,Finland,b5,Class 5,profile_vs_alternative,Class 5,Finland,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,France,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),France,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+FRA,France,b1,Class 1,alternative_vs_profile,France,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b1,Class 1,profile_vs_alternative,Class 1,France,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+FRA,France,b2,Class 2,alternative_vs_profile,France,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b2,Class 2,profile_vs_alternative,Class 2,France,0.0,"C2,C5",0.0,0.0,0.7,False
+FRA,France,b3,Class 3,alternative_vs_profile,France,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b3,Class 3,profile_vs_alternative,Class 3,France,0.13222267681313585,C5,0.0,0.0,0.7,False
+FRA,France,b4,Class 4,alternative_vs_profile,France,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+FRA,France,b4,Class 4,profile_vs_alternative,Class 4,France,0.5682487167635681,C5,0.0,0.0,0.7,False
+FRA,France,b5,Class 5,alternative_vs_profile,France,Class 5,0.9056814772386328,None,1.0,0.9056814772386328,0.7,True
+FRA,France,b5,Class 5,profile_vs_alternative,Class 5,France,0.6113611361136113,C5,0.0,0.0,0.7,False
+GAB,Gabon,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Gabon,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GAB,Gabon,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Gabon,0.1191806346410042,"C2,C4,C6",0.0,0.0,0.7,False
+GAB,Gabon,b1,Class 1,alternative_vs_profile,Gabon,Class 1,0.5896096602667259,C6,0.0,0.0,0.7,False
+GAB,Gabon,b1,Class 1,profile_vs_alternative,Class 1,Gabon,0.9685604924128774,None,1.0,0.9685604924128774,0.7,True
+GAB,Gabon,b2,Class 2,alternative_vs_profile,Gabon,Class 2,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+GAB,Gabon,b2,Class 2,profile_vs_alternative,Class 2,Gabon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GAB,Gabon,b3,Class 3,alternative_vs_profile,Gabon,Class 3,0.09671148933075122,"C5,C6",0.0,0.0,0.7,False
+GAB,Gabon,b3,Class 3,profile_vs_alternative,Class 3,Gabon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GAB,Gabon,b4,Class 4,alternative_vs_profile,Gabon,Class 4,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+GAB,Gabon,b4,Class 4,profile_vs_alternative,Class 4,Gabon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GAB,Gabon,b5,Class 5,alternative_vs_profile,Gabon,Class 5,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+GAB,Gabon,b5,Class 5,profile_vs_alternative,Class 5,Gabon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GEO,Georgia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Georgia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GEO,Georgia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Georgia,0.1433220245101433,"C2,C4,C5,C6",0.0,0.0,0.7,False
+GEO,Georgia,b1,Class 1,alternative_vs_profile,Georgia,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+GEO,Georgia,b1,Class 1,profile_vs_alternative,Class 1,Georgia,0.2477287728772877,"C2,C5,C6",0.0,0.0,0.7,False
+GEO,Georgia,b2,Class 2,alternative_vs_profile,Georgia,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+GEO,Georgia,b2,Class 2,profile_vs_alternative,Class 2,Georgia,0.5448544854485448,"C2,C5",0.0,0.0,0.7,False
+GEO,Georgia,b3,Class 3,alternative_vs_profile,Georgia,Class 3,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+GEO,Georgia,b3,Class 3,profile_vs_alternative,Class 3,Georgia,0.806871596250534,None,1.0,0.806871596250534,0.7,True
+GEO,Georgia,b4,Class 4,alternative_vs_profile,Georgia,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+GEO,Georgia,b4,Class 4,profile_vs_alternative,Class 4,Georgia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GEO,Georgia,b5,Class 5,alternative_vs_profile,Georgia,Class 5,0.27489694423987854,C5,0.0,0.0,0.7,False
+GEO,Georgia,b5,Class 5,profile_vs_alternative,Class 5,Georgia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Germany,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Germany,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+DEU,Germany,b1,Class 1,alternative_vs_profile,Germany,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b1,Class 1,profile_vs_alternative,Class 1,Germany,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+DEU,Germany,b2,Class 2,alternative_vs_profile,Germany,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b2,Class 2,profile_vs_alternative,Class 2,Germany,0.0,"C2,C5",0.0,0.0,0.7,False
+DEU,Germany,b3,Class 3,alternative_vs_profile,Germany,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b3,Class 3,profile_vs_alternative,Class 3,Germany,0.15791179117911788,C5,0.0,0.0,0.7,False
+DEU,Germany,b4,Class 4,alternative_vs_profile,Germany,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b4,Class 4,profile_vs_alternative,Class 4,Germany,0.751421031349024,C5,0.0,0.0,0.7,False
+DEU,Germany,b5,Class 5,alternative_vs_profile,Germany,Class 5,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+DEU,Germany,b5,Class 5,profile_vs_alternative,Class 5,Germany,0.7976797679767975,C5,0.0,0.0,0.7,False
+GHA,Ghana,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Ghana,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GHA,Ghana,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Ghana,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+GHA,Ghana,b1,Class 1,alternative_vs_profile,Ghana,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GHA,Ghana,b1,Class 1,profile_vs_alternative,Class 1,Ghana,0.3360972460882452,"C5,C6",0.0,0.0,0.7,False
+GHA,Ghana,b2,Class 2,alternative_vs_profile,Ghana,Class 2,0.9736813681368135,None,1.0,0.9736813681368135,0.7,True
+GHA,Ghana,b2,Class 2,profile_vs_alternative,Class 2,Ghana,0.6858378351204103,None,1.0,0.6858378351204103,0.7,False
+GHA,Ghana,b3,Class 3,alternative_vs_profile,Ghana,Class 3,0.3842129025736797,None,1.0,0.3842129025736797,0.7,False
+GHA,Ghana,b3,Class 3,profile_vs_alternative,Class 3,Ghana,0.9804034457499802,None,1.0,0.9804034457499802,0.7,True
+GHA,Ghana,b4,Class 4,alternative_vs_profile,Ghana,Class 4,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+GHA,Ghana,b4,Class 4,profile_vs_alternative,Class 4,Ghana,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GHA,Ghana,b5,Class 5,alternative_vs_profile,Ghana,Class 5,0.07054759530007057,"C2,C5",0.0,0.0,0.7,False
+GHA,Ghana,b5,Class 5,profile_vs_alternative,Class 5,Ghana,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GRC,Greece,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Greece,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GRC,Greece,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Greece,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+GRC,Greece,b1,Class 1,alternative_vs_profile,Greece,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GRC,Greece,b1,Class 1,profile_vs_alternative,Class 1,Greece,0.0,"C2,C5",0.0,0.0,0.7,False
+GRC,Greece,b2,Class 2,alternative_vs_profile,Greece,Class 2,0.9725648240499724,None,1.0,0.9725648240499724,0.7,True
+GRC,Greece,b2,Class 2,profile_vs_alternative,Class 2,Greece,0.23274327432743272,"C2,C5",0.0,0.0,0.7,False
+GRC,Greece,b3,Class 3,alternative_vs_profile,Greece,Class 3,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+GRC,Greece,b3,Class 3,profile_vs_alternative,Class 3,Greece,0.559637781960014,C5,0.0,0.0,0.7,False
+GRC,Greece,b4,Class 4,alternative_vs_profile,Greece,Class 4,0.6686668666866685,None,1.0,0.6686668666866685,0.7,False
+GRC,Greece,b4,Class 4,profile_vs_alternative,Class 4,Greece,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GRC,Greece,b5,Class 5,alternative_vs_profile,Greece,Class 5,0.5636290901817455,C6,0.0,0.0,0.7,False
+GRC,Greece,b5,Class 5,profile_vs_alternative,Class 5,Greece,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GTM,Guatemala,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Guatemala,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GTM,Guatemala,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Guatemala,0.0631063106310631,"C2,C4,C6",0.0,0.0,0.7,False
+GTM,Guatemala,b1,Class 1,alternative_vs_profile,Guatemala,Class 1,0.7591229711206414,C6,0.0,0.0,0.7,False
+GTM,Guatemala,b1,Class 1,profile_vs_alternative,Class 1,Guatemala,0.5599719971997199,C2,0.0,0.0,0.7,False
+GTM,Guatemala,b2,Class 2,alternative_vs_profile,Guatemala,Class 2,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+GTM,Guatemala,b2,Class 2,profile_vs_alternative,Class 2,Guatemala,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+GTM,Guatemala,b3,Class 3,alternative_vs_profile,Guatemala,Class 3,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+GTM,Guatemala,b3,Class 3,profile_vs_alternative,Class 3,Guatemala,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GTM,Guatemala,b4,Class 4,alternative_vs_profile,Guatemala,Class 4,0.31813181318131806,"C5,C6",0.0,0.0,0.7,False
+GTM,Guatemala,b4,Class 4,profile_vs_alternative,Class 4,Guatemala,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GTM,Guatemala,b5,Class 5,alternative_vs_profile,Guatemala,Class 5,0.18423042304230422,"C5,C6",0.0,0.0,0.7,False
+GTM,Guatemala,b5,Class 5,profile_vs_alternative,Class 5,Guatemala,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HND,Honduras,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Honduras,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HND,Honduras,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Honduras,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+HND,Honduras,b1,Class 1,alternative_vs_profile,Honduras,Class 1,0.6154461600006154,C6,0.0,0.0,0.7,False
+HND,Honduras,b1,Class 1,profile_vs_alternative,Class 1,Honduras,0.5484981225395266,None,1.0,0.5484981225395266,0.7,False
+HND,Honduras,b2,Class 2,alternative_vs_profile,Honduras,Class 2,0.4921628526489012,C6,0.0,0.0,0.7,False
+HND,Honduras,b2,Class 2,profile_vs_alternative,Class 2,Honduras,0.9326296265990233,None,1.0,0.9326296265990233,0.7,True
+HND,Honduras,b3,Class 3,alternative_vs_profile,Honduras,Class 3,0.4438898435298074,"C5,C6",0.0,0.0,0.7,False
+HND,Honduras,b3,Class 3,profile_vs_alternative,Class 3,Honduras,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HND,Honduras,b4,Class 4,alternative_vs_profile,Honduras,Class 4,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+HND,Honduras,b4,Class 4,profile_vs_alternative,Class 4,Honduras,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HND,Honduras,b5,Class 5,alternative_vs_profile,Honduras,Class 5,0.18423042304230422,"C2,C5,C6",0.0,0.0,0.7,False
+HND,Honduras,b5,Class 5,profile_vs_alternative,Class 5,Honduras,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HKG,"Hong Kong SAR, China",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Hong Kong SAR, China",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HKG,"Hong Kong SAR, China",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Hong Kong SAR, China",0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+HKG,"Hong Kong SAR, China",b1,Class 1,alternative_vs_profile,"Hong Kong SAR, China",Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HKG,"Hong Kong SAR, China",b1,Class 1,profile_vs_alternative,Class 1,"Hong Kong SAR, China",0.0,"C2,C5,C6",0.0,0.0,0.7,False
+HKG,"Hong Kong SAR, China",b2,Class 2,alternative_vs_profile,"Hong Kong SAR, China",Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HKG,"Hong Kong SAR, China",b2,Class 2,profile_vs_alternative,Class 2,"Hong Kong SAR, China",0.0,"C2,C5,C6",0.0,0.0,0.7,False
+HKG,"Hong Kong SAR, China",b3,Class 3,alternative_vs_profile,"Hong Kong SAR, China",Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+HKG,"Hong Kong SAR, China",b3,Class 3,profile_vs_alternative,Class 3,"Hong Kong SAR, China",0.01754575457545756,None,1.0,0.01754575457545756,0.7,False
+HKG,"Hong Kong SAR, China",b4,Class 4,alternative_vs_profile,"Hong Kong SAR, China",Class 4,0.9856677975489856,None,1.0,0.9856677975489856,0.7,True
+HKG,"Hong Kong SAR, China",b4,Class 4,profile_vs_alternative,Class 4,"Hong Kong SAR, China",0.6768580248688258,None,1.0,0.6768580248688258,0.7,False
+HKG,"Hong Kong SAR, China",b5,Class 5,alternative_vs_profile,"Hong Kong SAR, China",Class 5,0.7878550092771515,None,1.0,0.7878550092771515,0.7,True
+HKG,"Hong Kong SAR, China",b5,Class 5,profile_vs_alternative,Class 5,"Hong Kong SAR, China",0.8607860786078607,None,1.0,0.8607860786078607,0.7,True
+IND,India,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,India,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IND,India,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),India,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+IND,India,b1,Class 1,alternative_vs_profile,India,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IND,India,b1,Class 1,profile_vs_alternative,Class 1,India,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+IND,India,b2,Class 2,alternative_vs_profile,India,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IND,India,b2,Class 2,profile_vs_alternative,Class 2,India,0.19765176517651759,"C2,C5",0.0,0.0,0.7,False
+IND,India,b3,Class 3,alternative_vs_profile,India,Class 3,0.9020172287499019,None,1.0,0.9020172287499019,0.7,True
+IND,India,b3,Class 3,profile_vs_alternative,Class 3,India,0.38230186655029136,C5,0.0,0.0,0.7,False
+IND,India,b4,Class 4,alternative_vs_profile,India,Class 4,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+IND,India,b4,Class 4,profile_vs_alternative,Class 4,India,0.7976797679767975,None,1.0,0.7976797679767975,0.7,True
+IND,India,b5,Class 5,alternative_vs_profile,India,Class 5,0.6549920726338367,None,1.0,0.6549920726338367,0.7,False
+IND,India,b5,Class 5,profile_vs_alternative,Class 5,India,0.8619891400904796,None,1.0,0.8619891400904796,0.7,True
+IDN,Indonesia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Indonesia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IDN,Indonesia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Indonesia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+IDN,Indonesia,b1,Class 1,alternative_vs_profile,Indonesia,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IDN,Indonesia,b1,Class 1,profile_vs_alternative,Class 1,Indonesia,0.17198642941217196,"C2,C5",0.0,0.0,0.7,False
+IDN,Indonesia,b2,Class 2,alternative_vs_profile,Indonesia,Class 2,0.7351793391397351,None,1.0,0.7351793391397351,0.7,True
+IDN,Indonesia,b2,Class 2,profile_vs_alternative,Class 2,Indonesia,0.45415341534153414,"C2,C5",0.0,0.0,0.7,False
+IDN,Indonesia,b3,Class 3,alternative_vs_profile,Indonesia,Class 3,0.6686668666866685,None,1.0,0.6686668666866685,0.7,False
+IDN,Indonesia,b3,Class 3,profile_vs_alternative,Class 3,Indonesia,0.6898689868986898,None,1.0,0.6898689868986898,0.7,False
+IDN,Indonesia,b4,Class 4,alternative_vs_profile,Indonesia,Class 4,0.5146942501736804,C6,0.0,0.0,0.7,False
+IDN,Indonesia,b4,Class 4,profile_vs_alternative,Class 4,Indonesia,0.941612343052487,None,1.0,0.941612343052487,0.7,True
+IDN,Indonesia,b5,Class 5,alternative_vs_profile,Indonesia,Class 5,0.46634663466346626,C6,0.0,0.0,0.7,False
+IDN,Indonesia,b5,Class 5,profile_vs_alternative,Class 5,Indonesia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IRQ,Iraq,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Iraq,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IRQ,Iraq,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Iraq,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+IRQ,Iraq,b1,Class 1,alternative_vs_profile,Iraq,Class 1,0.9856677975489856,None,1.0,0.9856677975489856,0.7,True
+IRQ,Iraq,b1,Class 1,profile_vs_alternative,Class 1,Iraq,0.18631863186318628,C2,0.0,0.0,0.7,False
+IRQ,Iraq,b2,Class 2,alternative_vs_profile,Iraq,Class 2,0.7940848138867939,None,1.0,0.7940848138867939,0.7,True
+IRQ,Iraq,b2,Class 2,profile_vs_alternative,Class 2,Iraq,0.6740194019401939,None,1.0,0.6740194019401939,0.7,False
+IRQ,Iraq,b3,Class 3,alternative_vs_profile,Iraq,Class 3,0.46634663466346626,None,1.0,0.46634663466346626,0.7,False
+IRQ,Iraq,b3,Class 3,profile_vs_alternative,Class 3,Iraq,0.9775432088663409,None,1.0,0.9775432088663409,0.7,True
+IRQ,Iraq,b4,Class 4,alternative_vs_profile,Iraq,Class 4,0.39897626126248986,C5,0.0,0.0,0.7,False
+IRQ,Iraq,b4,Class 4,profile_vs_alternative,Class 4,Iraq,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IRQ,Iraq,b5,Class 5,alternative_vs_profile,Iraq,Class 5,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+IRQ,Iraq,b5,Class 5,profile_vs_alternative,Class 5,Iraq,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IRL,Ireland,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Ireland,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+IRL,Ireland,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Ireland,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+IRL,Ireland,b1,Class 1,alternative_vs_profile,Ireland,Class 1,0.8996745828428996,None,1.0,0.8996745828428996,0.7,True
+IRL,Ireland,b1,Class 1,profile_vs_alternative,Class 1,Ireland,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+IRL,Ireland,b2,Class 2,alternative_vs_profile,Ireland,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+IRL,Ireland,b2,Class 2,profile_vs_alternative,Class 2,Ireland,0.18631863186318628,"C2,C5",0.0,0.0,0.7,False
+IRL,Ireland,b3,Class 3,alternative_vs_profile,Ireland,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+IRL,Ireland,b3,Class 3,profile_vs_alternative,Class 3,Ireland,0.3677462881423277,C5,0.0,0.0,0.7,False
+IRL,Ireland,b4,Class 4,alternative_vs_profile,Ireland,Class 4,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+IRL,Ireland,b4,Class 4,profile_vs_alternative,Class 4,Ireland,0.9003708507864804,None,1.0,0.9003708507864804,0.7,True
+IRL,Ireland,b5,Class 5,alternative_vs_profile,Ireland,Class 5,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+IRL,Ireland,b5,Class 5,profile_vs_alternative,Class 5,Ireland,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Italy,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Italy,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ITA,Italy,b1,Class 1,alternative_vs_profile,Italy,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b1,Class 1,profile_vs_alternative,Class 1,Italy,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+ITA,Italy,b2,Class 2,alternative_vs_profile,Italy,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b2,Class 2,profile_vs_alternative,Class 2,Italy,0.17545754575457545,"C2,C5",0.0,0.0,0.7,False
+ITA,Italy,b3,Class 3,alternative_vs_profile,Italy,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b3,Class 3,profile_vs_alternative,Class 3,Italy,0.45416359817799956,C5,0.0,0.0,0.7,False
+ITA,Italy,b4,Class 4,alternative_vs_profile,Italy,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ITA,Italy,b4,Class 4,profile_vs_alternative,Class 4,Italy,0.6113611361136113,C5,0.0,0.0,0.7,False
+ITA,Italy,b5,Class 5,alternative_vs_profile,Italy,Class 5,0.7448196908142901,None,1.0,0.7448196908142901,0.7,True
+ITA,Italy,b5,Class 5,profile_vs_alternative,Class 5,Italy,0.7690153630747689,C5,0.0,0.0,0.7,False
+JAM,Jamaica,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Jamaica,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JAM,Jamaica,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Jamaica,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+JAM,Jamaica,b1,Class 1,alternative_vs_profile,Jamaica,Class 1,0.8607860786078607,None,1.0,0.8607860786078607,0.7,True
+JAM,Jamaica,b1,Class 1,profile_vs_alternative,Class 1,Jamaica,0.37861513424069676,C6,0.0,0.0,0.7,False
+JAM,Jamaica,b2,Class 2,alternative_vs_profile,Jamaica,Class 2,0.8550491412777641,None,1.0,0.8550491412777641,0.7,True
+JAM,Jamaica,b2,Class 2,profile_vs_alternative,Class 2,Jamaica,0.6834319795615924,None,1.0,0.6834319795615924,0.7,False
+JAM,Jamaica,b3,Class 3,alternative_vs_profile,Jamaica,Class 3,0.734218827288134,C5,0.0,0.0,0.7,False
+JAM,Jamaica,b3,Class 3,profile_vs_alternative,Class 3,Jamaica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JAM,Jamaica,b4,Class 4,alternative_vs_profile,Jamaica,Class 4,0.05170300813865167,C5,0.0,0.0,0.7,False
+JAM,Jamaica,b4,Class 4,profile_vs_alternative,Class 4,Jamaica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JAM,Jamaica,b5,Class 5,alternative_vs_profile,Jamaica,Class 5,0.0,"C2,C5",0.0,0.0,0.7,False
+JAM,Jamaica,b5,Class 5,profile_vs_alternative,Class 5,Jamaica,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JPN,Japan,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Japan,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JPN,Japan,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Japan,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+JPN,Japan,b1,Class 1,alternative_vs_profile,Japan,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JPN,Japan,b1,Class 1,profile_vs_alternative,Class 1,Japan,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+JPN,Japan,b2,Class 2,alternative_vs_profile,Japan,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JPN,Japan,b2,Class 2,profile_vs_alternative,Class 2,Japan,0.0526372637263726,"C5,C6",0.0,0.0,0.7,False
+JPN,Japan,b3,Class 3,alternative_vs_profile,Japan,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JPN,Japan,b3,Class 3,profile_vs_alternative,Class 3,Japan,0.6526652665266526,C5,0.0,0.0,0.7,False
+JPN,Japan,b4,Class 4,alternative_vs_profile,Japan,Class 4,0.6564838302012019,None,1.0,0.6564838302012019,0.7,False
+JPN,Japan,b4,Class 4,profile_vs_alternative,Class 4,Japan,0.7232128618267231,C5,0.0,0.0,0.7,False
+JPN,Japan,b5,Class 5,alternative_vs_profile,Japan,Class 5,0.5666566656665666,None,1.0,0.5666566656665666,0.7,False
+JPN,Japan,b5,Class 5,profile_vs_alternative,Class 5,Japan,0.8631922015730984,None,1.0,0.8631922015730984,0.7,True
+JOR,Jordan,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Jordan,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JOR,Jordan,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Jordan,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+JOR,Jordan,b1,Class 1,alternative_vs_profile,Jordan,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JOR,Jordan,b1,Class 1,profile_vs_alternative,Class 1,Jordan,0.3354575457545754,"C2,C5",0.0,0.0,0.7,False
+JOR,Jordan,b2,Class 2,alternative_vs_profile,Jordan,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+JOR,Jordan,b2,Class 2,profile_vs_alternative,Class 2,Jordan,0.5563920028366472,None,1.0,0.5563920028366472,0.7,False
+JOR,Jordan,b3,Class 3,alternative_vs_profile,Jordan,Class 3,0.6393472343332035,None,1.0,0.6393472343332035,0.7,False
+JOR,Jordan,b3,Class 3,profile_vs_alternative,Class 3,Jordan,0.8966987607851693,None,1.0,0.8966987607851693,0.7,True
+JOR,Jordan,b4,Class 4,alternative_vs_profile,Jordan,Class 4,0.4488008800880087,C5,0.0,0.0,0.7,False
+JOR,Jordan,b4,Class 4,profile_vs_alternative,Class 4,Jordan,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+JOR,Jordan,b5,Class 5,alternative_vs_profile,Jordan,Class 5,0.09734100682795549,"C5,C6",0.0,0.0,0.7,False
+JOR,Jordan,b5,Class 5,profile_vs_alternative,Class 5,Jordan,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KEN,Kenya,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Kenya,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KEN,Kenya,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Kenya,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+KEN,Kenya,b1,Class 1,alternative_vs_profile,Kenya,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KEN,Kenya,b1,Class 1,profile_vs_alternative,Class 1,Kenya,0.23018301830183013,"C2,C5",0.0,0.0,0.7,False
+KEN,Kenya,b2,Class 2,alternative_vs_profile,Kenya,Class 2,0.6765054883866763,None,1.0,0.6765054883866763,0.7,False
+KEN,Kenya,b2,Class 2,profile_vs_alternative,Class 2,Kenya,0.5506550655065505,"C2,C5",0.0,0.0,0.7,False
+KEN,Kenya,b3,Class 3,alternative_vs_profile,Kenya,Class 3,0.6686668666866685,None,1.0,0.6686668666866685,0.7,False
+KEN,Kenya,b3,Class 3,profile_vs_alternative,Class 3,Kenya,0.6898438506952298,None,1.0,0.6898438506952298,0.7,False
+KEN,Kenya,b4,Class 4,alternative_vs_profile,Kenya,Class 4,0.5728043392574551,C6,0.0,0.0,0.7,False
+KEN,Kenya,b4,Class 4,profile_vs_alternative,Class 4,Kenya,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KEN,Kenya,b5,Class 5,alternative_vs_profile,Kenya,Class 5,0.31939084817572666,"C5,C6",0.0,0.0,0.7,False
+KEN,Kenya,b5,Class 5,profile_vs_alternative,Class 5,Kenya,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Korea, Rep.",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Korea, Rep.",0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+KOR,"Korea, Rep.",b1,Class 1,alternative_vs_profile,"Korea, Rep.",Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b1,Class 1,profile_vs_alternative,Class 1,"Korea, Rep.",0.0,"C2,C5,C6",0.0,0.0,0.7,False
+KOR,"Korea, Rep.",b2,Class 2,alternative_vs_profile,"Korea, Rep.",Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b2,Class 2,profile_vs_alternative,Class 2,"Korea, Rep.",0.0,"C2,C5",0.0,0.0,0.7,False
+KOR,"Korea, Rep.",b3,Class 3,alternative_vs_profile,"Korea, Rep.",Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b3,Class 3,profile_vs_alternative,Class 3,"Korea, Rep.",0.19594104865031958,C5,0.0,0.0,0.7,False
+KOR,"Korea, Rep.",b4,Class 4,alternative_vs_profile,"Korea, Rep.",Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KOR,"Korea, Rep.",b4,Class 4,profile_vs_alternative,Class 4,"Korea, Rep.",0.5807225489133678,None,1.0,0.5807225489133678,0.7,False
+KOR,"Korea, Rep.",b5,Class 5,alternative_vs_profile,"Korea, Rep.",Class 5,0.806871596250534,None,1.0,0.806871596250534,0.7,True
+KOR,"Korea, Rep.",b5,Class 5,profile_vs_alternative,Class 5,"Korea, Rep.",0.7616785742745398,None,1.0,0.7616785742745398,0.7,True
+KWT,Kuwait,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Kuwait,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KWT,Kuwait,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Kuwait,0.17198642941217196,"C2,C4,C5,C6",0.0,0.0,0.7,False
+KWT,Kuwait,b1,Class 1,alternative_vs_profile,Kuwait,Class 1,0.6686668666866685,None,1.0,0.6686668666866685,0.7,False
+KWT,Kuwait,b1,Class 1,profile_vs_alternative,Class 1,Kuwait,0.33133313331333125,C2,0.0,0.0,0.7,False
+KWT,Kuwait,b2,Class 2,alternative_vs_profile,Kuwait,Class 2,0.6686668666866685,C6,0.0,0.0,0.7,False
+KWT,Kuwait,b2,Class 2,profile_vs_alternative,Class 2,Kuwait,0.5698969896989698,None,1.0,0.5698969896989698,0.7,False
+KWT,Kuwait,b3,Class 3,alternative_vs_profile,Kuwait,Class 3,0.5973715018560679,C6,0.0,0.0,0.7,False
+KWT,Kuwait,b3,Class 3,profile_vs_alternative,Class 3,Kuwait,0.8966987607851693,None,1.0,0.8966987607851693,0.7,True
+KWT,Kuwait,b4,Class 4,alternative_vs_profile,Kuwait,Class 4,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+KWT,Kuwait,b4,Class 4,profile_vs_alternative,Class 4,Kuwait,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+KWT,Kuwait,b5,Class 5,alternative_vs_profile,Kuwait,Class 5,0.25525279800707346,"C5,C6",0.0,0.0,0.7,False
+KWT,Kuwait,b5,Class 5,profile_vs_alternative,Class 5,Kuwait,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LVA,Latvia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Latvia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LVA,Latvia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Latvia,0.1433220245101433,"C2,C4,C5,C6",0.0,0.0,0.7,False
+LVA,Latvia,b1,Class 1,alternative_vs_profile,Latvia,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+LVA,Latvia,b1,Class 1,profile_vs_alternative,Class 1,Latvia,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+LVA,Latvia,b2,Class 2,alternative_vs_profile,Latvia,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+LVA,Latvia,b2,Class 2,profile_vs_alternative,Class 2,Latvia,0.3781698169816981,"C2,C6",0.0,0.0,0.7,False
+LVA,Latvia,b3,Class 3,alternative_vs_profile,Latvia,Class 3,0.6658620407495295,None,1.0,0.6658620407495295,0.7,False
+LVA,Latvia,b3,Class 3,profile_vs_alternative,Class 3,Latvia,0.6259262289865349,None,1.0,0.6259262289865349,0.7,False
+LVA,Latvia,b4,Class 4,alternative_vs_profile,Latvia,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+LVA,Latvia,b4,Class 4,profile_vs_alternative,Class 4,Latvia,0.8863399853498862,None,1.0,0.8863399853498862,0.7,True
+LVA,Latvia,b5,Class 5,alternative_vs_profile,Latvia,Class 5,0.5260253298057078,C5,0.0,0.0,0.7,False
+LVA,Latvia,b5,Class 5,profile_vs_alternative,Class 5,Latvia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LBN,Lebanon,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Lebanon,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LBN,Lebanon,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Lebanon,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+LBN,Lebanon,b1,Class 1,alternative_vs_profile,Lebanon,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LBN,Lebanon,b1,Class 1,profile_vs_alternative,Class 1,Lebanon,0.2723220294057377,C5,0.0,0.0,0.7,False
+LBN,Lebanon,b2,Class 2,alternative_vs_profile,Lebanon,Class 2,0.9426711901959426,None,1.0,0.9426711901959426,0.7,True
+LBN,Lebanon,b2,Class 2,profile_vs_alternative,Class 2,Lebanon,0.8206275172971842,None,1.0,0.8206275172971842,0.7,True
+LBN,Lebanon,b3,Class 3,alternative_vs_profile,Lebanon,Class 3,0.5190928183727462,None,1.0,0.5190928183727462,0.7,False
+LBN,Lebanon,b3,Class 3,profile_vs_alternative,Class 3,Lebanon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LBN,Lebanon,b4,Class 4,alternative_vs_profile,Lebanon,Class 4,0.2193219321932193,"C2,C5",0.0,0.0,0.7,False
+LBN,Lebanon,b4,Class 4,profile_vs_alternative,Class 4,Lebanon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LBN,Lebanon,b5,Class 5,alternative_vs_profile,Lebanon,Class 5,0.11404740474047406,"C2,C5,C6",0.0,0.0,0.7,False
+LBN,Lebanon,b5,Class 5,profile_vs_alternative,Class 5,Lebanon,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LTU,Lithuania,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Lithuania,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LTU,Lithuania,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Lithuania,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+LTU,Lithuania,b1,Class 1,alternative_vs_profile,Lithuania,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LTU,Lithuania,b1,Class 1,profile_vs_alternative,Class 1,Lithuania,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+LTU,Lithuania,b2,Class 2,alternative_vs_profile,Lithuania,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+LTU,Lithuania,b2,Class 2,profile_vs_alternative,Class 2,Lithuania,0.34681394371551616,C5,0.0,0.0,0.7,False
+LTU,Lithuania,b3,Class 3,alternative_vs_profile,Lithuania,Class 3,0.764547042939588,None,1.0,0.764547042939588,0.7,True
+LTU,Lithuania,b3,Class 3,profile_vs_alternative,Class 3,Lithuania,0.8999445399085362,None,1.0,0.8999445399085362,0.7,True
+LTU,Lithuania,b4,Class 4,alternative_vs_profile,Lithuania,Class 4,0.5760873384635761,None,1.0,0.5760873384635761,0.7,False
+LTU,Lithuania,b4,Class 4,profile_vs_alternative,Class 4,Lithuania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LTU,Lithuania,b5,Class 5,alternative_vs_profile,Lithuania,Class 5,0.24627008155360985,C5,0.0,0.0,0.7,False
+LTU,Lithuania,b5,Class 5,profile_vs_alternative,Class 5,Lithuania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDG,Madagascar,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Madagascar,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDG,Madagascar,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Madagascar,0.11465761960811464,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MDG,Madagascar,b1,Class 1,alternative_vs_profile,Madagascar,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+MDG,Madagascar,b1,Class 1,profile_vs_alternative,Class 1,Madagascar,0.5735391720990279,C6,0.0,0.0,0.7,False
+MDG,Madagascar,b2,Class 2,alternative_vs_profile,Madagascar,Class 2,0.6601251034194326,None,1.0,0.6601251034194326,0.7,False
+MDG,Madagascar,b2,Class 2,profile_vs_alternative,Class 2,Madagascar,0.7247361099746338,None,1.0,0.7247361099746338,0.7,True
+MDG,Madagascar,b3,Class 3,alternative_vs_profile,Madagascar,Class 3,0.6025882588258826,C5,0.0,0.0,0.7,False
+MDG,Madagascar,b3,Class 3,profile_vs_alternative,Class 3,Madagascar,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDG,Madagascar,b4,Class 4,alternative_vs_profile,Madagascar,Class 4,0.22397039703970398,C5,0.0,0.0,0.7,False
+MDG,Madagascar,b4,Class 4,profile_vs_alternative,Class 4,Madagascar,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDG,Madagascar,b5,Class 5,alternative_vs_profile,Madagascar,Class 5,0.031354486800031375,"C2,C5",0.0,0.0,0.7,False
+MDG,Madagascar,b5,Class 5,profile_vs_alternative,Class 5,Madagascar,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Malaysia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Malaysia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MYS,Malaysia,b1,Class 1,alternative_vs_profile,Malaysia,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b1,Class 1,profile_vs_alternative,Class 1,Malaysia,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+MYS,Malaysia,b2,Class 2,alternative_vs_profile,Malaysia,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b2,Class 2,profile_vs_alternative,Class 2,Malaysia,0.0,"C2,C5",0.0,0.0,0.7,False
+MYS,Malaysia,b3,Class 3,alternative_vs_profile,Malaysia,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b3,Class 3,profile_vs_alternative,Class 3,Malaysia,0.30502468428661045,C5,0.0,0.0,0.7,False
+MYS,Malaysia,b4,Class 4,alternative_vs_profile,Malaysia,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MYS,Malaysia,b4,Class 4,profile_vs_alternative,Class 4,Malaysia,0.8534644233654134,None,1.0,0.8534644233654134,0.7,True
+MYS,Malaysia,b5,Class 5,alternative_vs_profile,Malaysia,Class 5,0.6148461211202778,None,1.0,0.6148461211202778,0.7,False
+MYS,Malaysia,b5,Class 5,profile_vs_alternative,Class 5,Malaysia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDV,Maldives,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Maldives,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDV,Maldives,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Maldives,0.18631863186318628,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MDV,Maldives,b1,Class 1,alternative_vs_profile,Maldives,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+MDV,Maldives,b1,Class 1,profile_vs_alternative,Class 1,Maldives,0.2845872822576375,"C2,C6",0.0,0.0,0.7,False
+MDV,Maldives,b2,Class 2,alternative_vs_profile,Maldives,Class 2,0.7154127177423624,None,1.0,0.7154127177423624,0.7,True
+MDV,Maldives,b2,Class 2,profile_vs_alternative,Class 2,Maldives,0.3886388638863886,None,1.0,0.3886388638863886,0.7,False
+MDV,Maldives,b3,Class 3,alternative_vs_profile,Maldives,Class 3,0.6113611361136113,C5,0.0,0.0,0.7,False
+MDV,Maldives,b3,Class 3,profile_vs_alternative,Class 3,Maldives,0.8525473087849325,None,1.0,0.8525473087849325,0.7,True
+MDV,Maldives,b4,Class 4,alternative_vs_profile,Maldives,Class 4,0.46314631463146305,C5,0.0,0.0,0.7,False
+MDV,Maldives,b4,Class 4,profile_vs_alternative,Class 4,Maldives,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MDV,Maldives,b5,Class 5,alternative_vs_profile,Maldives,Class 5,0.32122401429332115,C5,0.0,0.0,0.7,False
+MDV,Maldives,b5,Class 5,profile_vs_alternative,Class 5,Maldives,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MLT,Malta,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Malta,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MLT,Malta,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Malta,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MLT,Malta,b1,Class 1,alternative_vs_profile,Malta,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MLT,Malta,b1,Class 1,profile_vs_alternative,Class 1,Malta,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+MLT,Malta,b2,Class 2,alternative_vs_profile,Malta,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MLT,Malta,b2,Class 2,profile_vs_alternative,Class 2,Malta,0.18797788869796067,C2,0.0,0.0,0.7,False
+MLT,Malta,b3,Class 3,alternative_vs_profile,Malta,Class 3,0.7833475655257833,None,1.0,0.7833475655257833,0.7,True
+MLT,Malta,b3,Class 3,profile_vs_alternative,Class 3,Malta,0.7091109110911091,None,1.0,0.7091109110911091,0.7,True
+MLT,Malta,b4,Class 4,alternative_vs_profile,Malta,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+MLT,Malta,b4,Class 4,profile_vs_alternative,Class 4,Malta,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MLT,Malta,b5,Class 5,alternative_vs_profile,Malta,Class 5,0.5088870066367815,C5,0.0,0.0,0.7,False
+MLT,Malta,b5,Class 5,profile_vs_alternative,Class 5,Malta,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MUS,Mauritius,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Mauritius,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MUS,Mauritius,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Mauritius,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MUS,Mauritius,b1,Class 1,alternative_vs_profile,Mauritius,Class 1,0.9176944721499176,None,1.0,0.9176944721499176,0.7,True
+MUS,Mauritius,b1,Class 1,profile_vs_alternative,Class 1,Mauritius,0.20234331125420232,"C2,C5",0.0,0.0,0.7,False
+MUS,Mauritius,b2,Class 2,alternative_vs_profile,Mauritius,Class 2,0.8263210936478261,C6,0.0,0.0,0.7,False
+MUS,Mauritius,b2,Class 2,profile_vs_alternative,Class 2,Mauritius,0.6922350416859866,C2,0.0,0.0,0.7,False
+MUS,Mauritius,b3,Class 3,alternative_vs_profile,Mauritius,Class 3,0.4864259153188045,C6,0.0,0.0,0.7,False
+MUS,Mauritius,b3,Class 3,profile_vs_alternative,Class 3,Mauritius,0.8248370291574609,None,1.0,0.8248370291574609,0.7,True
+MUS,Mauritius,b4,Class 4,alternative_vs_profile,Mauritius,Class 4,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+MUS,Mauritius,b4,Class 4,profile_vs_alternative,Class 4,Mauritius,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MUS,Mauritius,b5,Class 5,alternative_vs_profile,Mauritius,Class 5,0.32711452963478166,"C5,C6",0.0,0.0,0.7,False
+MUS,Mauritius,b5,Class 5,profile_vs_alternative,Class 5,Mauritius,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MEX,Mexico,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Mexico,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MEX,Mexico,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Mexico,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MEX,Mexico,b1,Class 1,alternative_vs_profile,Mexico,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MEX,Mexico,b1,Class 1,profile_vs_alternative,Class 1,Mexico,0.0,C5,0.0,0.0,0.7,False
+MEX,Mexico,b2,Class 2,alternative_vs_profile,Mexico,Class 2,0.8628241202498627,None,1.0,0.8628241202498627,0.7,True
+MEX,Mexico,b2,Class 2,profile_vs_alternative,Class 2,Mexico,0.3495185882224586,C5,0.0,0.0,0.7,False
+MEX,Mexico,b3,Class 3,alternative_vs_profile,Mexico,Class 3,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+MEX,Mexico,b3,Class 3,profile_vs_alternative,Class 3,Mexico,0.8607860786078607,None,1.0,0.8607860786078607,0.7,True
+MEX,Mexico,b4,Class 4,alternative_vs_profile,Mexico,Class 4,0.3585358535853585,C6,0.0,0.0,0.7,False
+MEX,Mexico,b4,Class 4,profile_vs_alternative,Class 4,Mexico,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MEX,Mexico,b5,Class 5,alternative_vs_profile,Mexico,Class 5,0.3503467993858209,"C2,C5,C6",0.0,0.0,0.7,False
+MEX,Mexico,b5,Class 5,profile_vs_alternative,Class 5,Mexico,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MAR,Morocco,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Morocco,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MAR,Morocco,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Morocco,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+MAR,Morocco,b1,Class 1,alternative_vs_profile,Morocco,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MAR,Morocco,b1,Class 1,profile_vs_alternative,Class 1,Morocco,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+MAR,Morocco,b2,Class 2,alternative_vs_profile,Morocco,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MAR,Morocco,b2,Class 2,profile_vs_alternative,Class 2,Morocco,0.4900944639918537,None,1.0,0.4900944639918537,0.7,False
+MAR,Morocco,b3,Class 3,alternative_vs_profile,Morocco,Class 3,0.9333717155499333,None,1.0,0.9333717155499333,0.7,True
+MAR,Morocco,b3,Class 3,profile_vs_alternative,Class 3,Morocco,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+MAR,Morocco,b4,Class 4,alternative_vs_profile,Morocco,Class 4,0.30036603660366035,C5,0.0,0.0,0.7,False
+MAR,Morocco,b4,Class 4,profile_vs_alternative,Class 4,Morocco,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+MAR,Morocco,b5,Class 5,alternative_vs_profile,Morocco,Class 5,0.18631863186318628,"C2,C5",0.0,0.0,0.7,False
+MAR,Morocco,b5,Class 5,profile_vs_alternative,Class 5,Morocco,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+MOZ,Mozambique,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Mozambique,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MOZ,Mozambique,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Mozambique,0.008605405995144968,"C2,C6",0.0,0.0,0.7,False
+MOZ,Mozambique,b1,Class 1,alternative_vs_profile,Mozambique,Class 1,0.6156479284292065,None,1.0,0.6156479284292065,0.7,False
+MOZ,Mozambique,b1,Class 1,profile_vs_alternative,Class 1,Mozambique,0.7386430950787386,C2,0.0,0.0,0.7,False
+MOZ,Mozambique,b2,Class 2,alternative_vs_profile,Mozambique,Class 2,0.29002130982329,"C5,C6",0.0,0.0,0.7,False
+MOZ,Mozambique,b2,Class 2,profile_vs_alternative,Class 2,Mozambique,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+MOZ,Mozambique,b3,Class 3,alternative_vs_profile,Mozambique,Class 3,0.247024702470247,"C5,C6",0.0,0.0,0.7,False
+MOZ,Mozambique,b3,Class 3,profile_vs_alternative,Class 3,Mozambique,0.9056814772386328,None,1.0,0.9056814772386328,0.7,True
+MOZ,Mozambique,b4,Class 4,alternative_vs_profile,Mozambique,Class 4,0.247024702470247,"C4,C5,C6",0.0,0.0,0.7,False
+MOZ,Mozambique,b4,Class 4,profile_vs_alternative,Class 4,Mozambique,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MOZ,Mozambique,b5,Class 5,alternative_vs_profile,Mozambique,Class 5,0.026948149360390566,"C4,C5,C6",0.0,0.0,0.7,False
+MOZ,Mozambique,b5,Class 5,profile_vs_alternative,Class 5,Mozambique,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MMR,Myanmar,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Myanmar,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+MMR,Myanmar,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Myanmar,0.12693305529647986,"C2,C4,C6",0.0,0.0,0.7,False
+MMR,Myanmar,b1,Class 1,alternative_vs_profile,Myanmar,Class 1,0.6537269111526536,None,1.0,0.6537269111526536,0.7,False
+MMR,Myanmar,b1,Class 1,profile_vs_alternative,Class 1,Myanmar,0.8549854985498548,C6,0.0,0.0,0.7,False
+MMR,Myanmar,b2,Class 2,alternative_vs_profile,Myanmar,Class 2,0.3823018665502913,None,1.0,0.3823018665502913,0.7,False
+MMR,Myanmar,b2,Class 2,profile_vs_alternative,Class 2,Myanmar,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+MMR,Myanmar,b3,Class 3,alternative_vs_profile,Myanmar,Class 3,0.2678347834783478,"C2,C5",0.0,0.0,0.7,False
+MMR,Myanmar,b3,Class 3,profile_vs_alternative,Class 3,Myanmar,0.8706627419498705,None,1.0,0.8706627419498705,0.7,True
+MMR,Myanmar,b4,Class 4,alternative_vs_profile,Myanmar,Class 4,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+MMR,Myanmar,b4,Class 4,profile_vs_alternative,Class 4,Myanmar,0.9882420674499881,None,1.0,0.9882420674499881,0.7,True
+MMR,Myanmar,b5,Class 5,alternative_vs_profile,Myanmar,Class 5,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+MMR,Myanmar,b5,Class 5,profile_vs_alternative,Class 5,Myanmar,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Netherlands,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Netherlands,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+NLD,Netherlands,b1,Class 1,alternative_vs_profile,Netherlands,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b1,Class 1,profile_vs_alternative,Class 1,Netherlands,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+NLD,Netherlands,b2,Class 2,alternative_vs_profile,Netherlands,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b2,Class 2,profile_vs_alternative,Class 2,Netherlands,0.0,"C2,C5",0.0,0.0,0.7,False
+NLD,Netherlands,b3,Class 3,alternative_vs_profile,Netherlands,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b3,Class 3,profile_vs_alternative,Class 3,Netherlands,0.1508023234755908,C5,0.0,0.0,0.7,False
+NLD,Netherlands,b4,Class 4,alternative_vs_profile,Netherlands,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NLD,Netherlands,b4,Class 4,profile_vs_alternative,Class 4,Netherlands,0.5411781178117812,C5,0.0,0.0,0.7,False
+NLD,Netherlands,b5,Class 5,alternative_vs_profile,Netherlands,Class 5,0.9042203974697222,None,1.0,0.9042203974697222,0.7,True
+NLD,Netherlands,b5,Class 5,profile_vs_alternative,Class 5,Netherlands,0.6113611361136113,C5,0.0,0.0,0.7,False
+NZL,New Zealand,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,New Zealand,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NZL,New Zealand,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),New Zealand,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+NZL,New Zealand,b1,Class 1,alternative_vs_profile,New Zealand,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NZL,New Zealand,b1,Class 1,profile_vs_alternative,Class 1,New Zealand,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+NZL,New Zealand,b2,Class 2,alternative_vs_profile,New Zealand,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NZL,New Zealand,b2,Class 2,profile_vs_alternative,Class 2,New Zealand,0.1945076860627239,"C2,C5,C6",0.0,0.0,0.7,False
+NZL,New Zealand,b3,Class 3,alternative_vs_profile,New Zealand,Class 3,0.764547042939588,None,1.0,0.764547042939588,0.7,True
+NZL,New Zealand,b3,Class 3,profile_vs_alternative,Class 3,New Zealand,0.41326132613261324,"C2,C5",0.0,0.0,0.7,False
+NZL,New Zealand,b4,Class 4,alternative_vs_profile,New Zealand,Class 4,0.6744674467446743,None,1.0,0.6744674467446743,0.7,False
+NZL,New Zealand,b4,Class 4,profile_vs_alternative,Class 4,New Zealand,0.8042664217281676,None,1.0,0.8042664217281676,0.7,True
+NZL,New Zealand,b5,Class 5,alternative_vs_profile,New Zealand,Class 5,0.6629935720844811,None,1.0,0.6629935720844811,0.7,False
+NZL,New Zealand,b5,Class 5,profile_vs_alternative,Class 5,New Zealand,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NIC,Nicaragua,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Nicaragua,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NIC,Nicaragua,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Nicaragua,0.3886388638863886,"C2,C4,C6",0.0,0.0,0.7,False
+NIC,Nicaragua,b1,Class 1,alternative_vs_profile,Nicaragua,Class 1,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+NIC,Nicaragua,b1,Class 1,profile_vs_alternative,Class 1,Nicaragua,0.5202320232023202,"C2,C6",0.0,0.0,0.7,False
+NIC,Nicaragua,b2,Class 2,alternative_vs_profile,Nicaragua,Class 2,0.6113611361136113,C5,0.0,0.0,0.7,False
+NIC,Nicaragua,b2,Class 2,profile_vs_alternative,Class 2,Nicaragua,0.6079607960796078,None,1.0,0.6079607960796078,0.7,False
+NIC,Nicaragua,b3,Class 3,alternative_vs_profile,Nicaragua,Class 3,0.6113611361136113,C5,0.0,0.0,0.7,False
+NIC,Nicaragua,b3,Class 3,profile_vs_alternative,Class 3,Nicaragua,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NIC,Nicaragua,b4,Class 4,alternative_vs_profile,Nicaragua,Class 4,0.5080598968987806,C5,0.0,0.0,0.7,False
+NIC,Nicaragua,b4,Class 4,profile_vs_alternative,Class 4,Nicaragua,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NIC,Nicaragua,b5,Class 5,alternative_vs_profile,Nicaragua,Class 5,0.10247176068958248,C5,0.0,0.0,0.7,False
+NIC,Nicaragua,b5,Class 5,profile_vs_alternative,Class 5,Nicaragua,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NGA,Nigeria,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Nigeria,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NGA,Nigeria,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Nigeria,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+NGA,Nigeria,b1,Class 1,alternative_vs_profile,Nigeria,Class 1,0.6798225277073161,None,1.0,0.6798225277073161,0.7,False
+NGA,Nigeria,b1,Class 1,profile_vs_alternative,Class 1,Nigeria,0.6113611361136113,C5,0.0,0.0,0.7,False
+NGA,Nigeria,b2,Class 2,alternative_vs_profile,Nigeria,Class 2,0.49391339133913376,C6,0.0,0.0,0.7,False
+NGA,Nigeria,b2,Class 2,profile_vs_alternative,Class 2,Nigeria,0.7976797679767975,C5,0.0,0.0,0.7,False
+NGA,Nigeria,b3,Class 3,alternative_vs_profile,Nigeria,Class 3,0.20232023202320232,"C2,C6",0.0,0.0,0.7,False
+NGA,Nigeria,b3,Class 3,profile_vs_alternative,Class 3,Nigeria,0.9684468446844683,None,1.0,0.9684468446844683,0.7,True
+NGA,Nigeria,b4,Class 4,alternative_vs_profile,Nigeria,Class 4,0.0,"C2,C6",0.0,0.0,0.7,False
+NGA,Nigeria,b4,Class 4,profile_vs_alternative,Class 4,Nigeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NGA,Nigeria,b5,Class 5,alternative_vs_profile,Nigeria,Class 5,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+NGA,Nigeria,b5,Class 5,profile_vs_alternative,Class 5,Nigeria,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NOR,Norway,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Norway,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+NOR,Norway,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Norway,0.05732880980405732,"C2,C4,C5,C6",0.0,0.0,0.7,False
+NOR,Norway,b1,Class 1,alternative_vs_profile,Norway,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+NOR,Norway,b1,Class 1,profile_vs_alternative,Class 1,Norway,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+NOR,Norway,b2,Class 2,alternative_vs_profile,Norway,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+NOR,Norway,b2,Class 2,profile_vs_alternative,Class 2,Norway,0.25650165016501647,C2,0.0,0.0,0.7,False
+NOR,Norway,b3,Class 3,alternative_vs_profile,Norway,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+NOR,Norway,b3,Class 3,profile_vs_alternative,Class 3,Norway,0.6137613761376137,None,1.0,0.6137613761376137,0.7,False
+NOR,Norway,b4,Class 4,alternative_vs_profile,Norway,Class 4,0.7505750575057504,C5,0.0,0.0,0.7,False
+NOR,Norway,b4,Class 4,profile_vs_alternative,Class 4,Norway,0.9955086417732681,None,1.0,0.9955086417732681,0.7,True
+NOR,Norway,b5,Class 5,alternative_vs_profile,Norway,Class 5,0.6290764211556289,C5,0.0,0.0,0.7,False
+NOR,Norway,b5,Class 5,profile_vs_alternative,Class 5,Norway,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+OMN,Oman,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Oman,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+OMN,Oman,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Oman,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+OMN,Oman,b1,Class 1,alternative_vs_profile,Oman,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+OMN,Oman,b1,Class 1,profile_vs_alternative,Class 1,Oman,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+OMN,Oman,b2,Class 2,alternative_vs_profile,Oman,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+OMN,Oman,b2,Class 2,profile_vs_alternative,Class 2,Oman,0.45419106616544,None,1.0,0.45419106616544,0.7,False
+OMN,Oman,b3,Class 3,alternative_vs_profile,Oman,Class 3,0.7125442490773142,None,1.0,0.7125442490773142,0.7,True
+OMN,Oman,b3,Class 3,profile_vs_alternative,Class 3,Oman,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+OMN,Oman,b4,Class 4,alternative_vs_profile,Oman,Class 4,0.5080598968987806,C5,0.0,0.0,0.7,False
+OMN,Oman,b4,Class 4,profile_vs_alternative,Class 4,Oman,0.9647262023499645,None,1.0,0.9647262023499645,0.7,True
+OMN,Oman,b5,Class 5,alternative_vs_profile,Oman,Class 5,0.3643364336433642,C5,0.0,0.0,0.7,False
+OMN,Oman,b5,Class 5,profile_vs_alternative,Class 5,Oman,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAK,Pakistan,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Pakistan,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAK,Pakistan,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Pakistan,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+PAK,Pakistan,b1,Class 1,alternative_vs_profile,Pakistan,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAK,Pakistan,b1,Class 1,profile_vs_alternative,Class 1,Pakistan,0.2193219321932193,C5,0.0,0.0,0.7,False
+PAK,Pakistan,b2,Class 2,alternative_vs_profile,Pakistan,Class 2,0.988242067449988,None,1.0,0.988242067449988,0.7,True
+PAK,Pakistan,b2,Class 2,profile_vs_alternative,Class 2,Pakistan,0.5241083548914331,C5,0.0,0.0,0.7,False
+PAK,Pakistan,b3,Class 3,alternative_vs_profile,Pakistan,Class 3,0.6692770815543092,None,1.0,0.6692770815543092,0.7,False
+PAK,Pakistan,b3,Class 3,profile_vs_alternative,Class 3,Pakistan,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAK,Pakistan,b4,Class 4,alternative_vs_profile,Pakistan,Class 4,0.0,C5,0.0,0.0,0.7,False
+PAK,Pakistan,b4,Class 4,profile_vs_alternative,Class 4,Pakistan,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAK,Pakistan,b5,Class 5,alternative_vs_profile,Pakistan,Class 5,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+PAK,Pakistan,b5,Class 5,profile_vs_alternative,Class 5,Pakistan,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAN,Panama,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Panama,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAN,Panama,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Panama,0.0,"C2,C4,C6",0.0,0.0,0.7,False
+PAN,Panama,b1,Class 1,alternative_vs_profile,Panama,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAN,Panama,b1,Class 1,profile_vs_alternative,Class 1,Panama,0.20812081208120808,C2,0.0,0.0,0.7,False
+PAN,Panama,b2,Class 2,alternative_vs_profile,Panama,Class 2,0.7918791879187917,None,1.0,0.7918791879187917,0.7,True
+PAN,Panama,b2,Class 2,profile_vs_alternative,Class 2,Panama,0.45260926092609255,None,1.0,0.45260926092609255,0.7,False
+PAN,Panama,b3,Class 3,alternative_vs_profile,Panama,Class 3,0.6526652665266526,"C5,C6",0.0,0.0,0.7,False
+PAN,Panama,b3,Class 3,profile_vs_alternative,Class 3,Panama,0.7766916551795038,None,1.0,0.7766916551795038,0.7,True
+PAN,Panama,b4,Class 4,alternative_vs_profile,Panama,Class 4,0.5523398493695523,"C5,C6",0.0,0.0,0.7,False
+PAN,Panama,b4,Class 4,profile_vs_alternative,Class 4,Panama,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PAN,Panama,b5,Class 5,alternative_vs_profile,Panama,Class 5,0.24627008155360985,"C5,C6",0.0,0.0,0.7,False
+PAN,Panama,b5,Class 5,profile_vs_alternative,Class 5,Panama,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PER,Peru,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Peru,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PER,Peru,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Peru,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+PER,Peru,b1,Class 1,alternative_vs_profile,Peru,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PER,Peru,b1,Class 1,profile_vs_alternative,Class 1,Peru,0.0,"C2,C6",0.0,0.0,0.7,False
+PER,Peru,b2,Class 2,alternative_vs_profile,Peru,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PER,Peru,b2,Class 2,profile_vs_alternative,Class 2,Peru,0.5681980089900881,C2,0.0,0.0,0.7,False
+PER,Peru,b3,Class 3,alternative_vs_profile,Peru,Class 3,0.6113611361136113,None,1.0,0.6113611361136113,0.7,False
+PER,Peru,b3,Class 3,profile_vs_alternative,Class 3,Peru,0.7529752975297528,None,1.0,0.7529752975297528,0.7,True
+PER,Peru,b4,Class 4,alternative_vs_profile,Peru,Class 4,0.5839259601635838,C5,0.0,0.0,0.7,False
+PER,Peru,b4,Class 4,profile_vs_alternative,Class 4,Peru,0.9326296265990233,None,1.0,0.9326296265990233,0.7,True
+PER,Peru,b5,Class 5,alternative_vs_profile,Peru,Class 5,0.46634663466346626,C5,0.0,0.0,0.7,False
+PER,Peru,b5,Class 5,profile_vs_alternative,Class 5,Peru,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PHL,Philippines,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Philippines,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PHL,Philippines,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Philippines,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+PHL,Philippines,b1,Class 1,alternative_vs_profile,Philippines,Class 1,0.9283389877449282,None,1.0,0.9283389877449282,0.7,True
+PHL,Philippines,b1,Class 1,profile_vs_alternative,Class 1,Philippines,0.33133313331333125,"C2,C5",0.0,0.0,0.7,False
+PHL,Philippines,b2,Class 2,alternative_vs_profile,Philippines,Class 2,0.6686668666866685,None,1.0,0.6686668666866685,0.7,False
+PHL,Philippines,b2,Class 2,profile_vs_alternative,Class 2,Philippines,0.5243364336433642,None,1.0,0.5243364336433642,0.7,False
+PHL,Philippines,b3,Class 3,alternative_vs_profile,Philippines,Class 3,0.6686668666866685,C6,0.0,0.0,0.7,False
+PHL,Philippines,b3,Class 3,profile_vs_alternative,Class 3,Philippines,0.941612343052487,None,1.0,0.941612343052487,0.7,True
+PHL,Philippines,b4,Class 4,alternative_vs_profile,Philippines,Class 4,0.434907127076344,"C5,C6",0.0,0.0,0.7,False
+PHL,Philippines,b4,Class 4,profile_vs_alternative,Class 4,Philippines,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PHL,Philippines,b5,Class 5,alternative_vs_profile,Philippines,Class 5,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+PHL,Philippines,b5,Class 5,profile_vs_alternative,Class 5,Philippines,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+POL,Poland,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Poland,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+POL,Poland,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Poland,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+POL,Poland,b1,Class 1,alternative_vs_profile,Poland,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+POL,Poland,b1,Class 1,profile_vs_alternative,Class 1,Poland,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+POL,Poland,b2,Class 2,alternative_vs_profile,Poland,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+POL,Poland,b2,Class 2,profile_vs_alternative,Class 2,Poland,0.3464635112159864,"C2,C5",0.0,0.0,0.7,False
+POL,Poland,b3,Class 3,alternative_vs_profile,Poland,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+POL,Poland,b3,Class 3,profile_vs_alternative,Class 3,Poland,0.5955686477738682,C5,0.0,0.0,0.7,False
+POL,Poland,b4,Class 4,alternative_vs_profile,Poland,Class 4,0.7705689487867704,None,1.0,0.7705689487867704,0.7,True
+POL,Poland,b4,Class 4,profile_vs_alternative,Class 4,Poland,0.9741837820145649,None,1.0,0.9741837820145649,0.7,True
+POL,Poland,b5,Class 5,alternative_vs_profile,Poland,Class 5,0.5236266942202241,None,1.0,0.5236266942202241,0.7,False
+POL,Poland,b5,Class 5,profile_vs_alternative,Class 5,Poland,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PRT,Portugal,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Portugal,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PRT,Portugal,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Portugal,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+PRT,Portugal,b1,Class 1,alternative_vs_profile,Portugal,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PRT,Portugal,b1,Class 1,profile_vs_alternative,Class 1,Portugal,0.0,"C2,C5",0.0,0.0,0.7,False
+PRT,Portugal,b2,Class 2,alternative_vs_profile,Portugal,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+PRT,Portugal,b2,Class 2,profile_vs_alternative,Class 2,Portugal,0.16256025602560256,"C2,C5",0.0,0.0,0.7,False
+PRT,Portugal,b3,Class 3,alternative_vs_profile,Portugal,Class 3,0.8863399853498862,None,1.0,0.8863399853498862,0.7,True
+PRT,Portugal,b3,Class 3,profile_vs_alternative,Class 3,Portugal,0.4026130724960608,C5,0.0,0.0,0.7,False
+PRT,Portugal,b4,Class 4,alternative_vs_profile,Portugal,Class 4,0.7833244862947832,None,1.0,0.7833244862947832,0.7,True
+PRT,Portugal,b4,Class 4,profile_vs_alternative,Class 4,Portugal,0.9368936893689368,None,1.0,0.9368936893689368,0.7,True
+PRT,Portugal,b5,Class 5,alternative_vs_profile,Portugal,Class 5,0.5653656274718379,C6,0.0,0.0,0.7,False
+PRT,Portugal,b5,Class 5,profile_vs_alternative,Class 5,Portugal,0.9627099073543717,None,1.0,0.9627099073543717,0.7,True
+QAT,Qatar,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Qatar,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+QAT,Qatar,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Qatar,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+QAT,Qatar,b1,Class 1,alternative_vs_profile,Qatar,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+QAT,Qatar,b1,Class 1,profile_vs_alternative,Class 1,Qatar,0.17198642941217196,"C2,C5,C6",0.0,0.0,0.7,False
+QAT,Qatar,b2,Class 2,alternative_vs_profile,Qatar,Class 2,0.8566779754898566,None,1.0,0.8566779754898566,0.7,True
+QAT,Qatar,b2,Class 2,profile_vs_alternative,Class 2,Qatar,0.3195752007633195,"C2,C5",0.0,0.0,0.7,False
+QAT,Qatar,b3,Class 3,alternative_vs_profile,Qatar,Class 3,0.8097620572868096,None,1.0,0.8097620572868096,0.7,True
+QAT,Qatar,b3,Class 3,profile_vs_alternative,Class 3,Qatar,0.6536051786996879,None,1.0,0.6536051786996879,0.7,False
+QAT,Qatar,b4,Class 4,alternative_vs_profile,Qatar,Class 4,0.4898624997634898,None,1.0,0.4898624997634898,0.7,False
+QAT,Qatar,b4,Class 4,profile_vs_alternative,Class 4,Qatar,0.9865259253198044,None,1.0,0.9865259253198044,0.7,True
+QAT,Qatar,b5,Class 5,alternative_vs_profile,Qatar,Class 5,0.46634663466346626,C5,0.0,0.0,0.7,False
+QAT,Qatar,b5,Class 5,profile_vs_alternative,Class 5,Qatar,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ROU,Romania,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Romania,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ROU,Romania,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Romania,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ROU,Romania,b1,Class 1,alternative_vs_profile,Romania,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ROU,Romania,b1,Class 1,profile_vs_alternative,Class 1,Romania,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+ROU,Romania,b2,Class 2,alternative_vs_profile,Romania,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+ROU,Romania,b2,Class 2,profile_vs_alternative,Class 2,Romania,0.25650165016501647,C5,0.0,0.0,0.7,False
+ROU,Romania,b3,Class 3,alternative_vs_profile,Romania,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+ROU,Romania,b3,Class 3,profile_vs_alternative,Class 3,Romania,0.8549090781314002,None,1.0,0.8549090781314002,0.7,True
+ROU,Romania,b4,Class 4,alternative_vs_profile,Romania,Class 4,0.6150588320864172,None,1.0,0.6150588320864172,0.7,False
+ROU,Romania,b4,Class 4,profile_vs_alternative,Class 4,Romania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ROU,Romania,b5,Class 5,alternative_vs_profile,Romania,Class 5,0.30783496040021696,None,1.0,0.30783496040021696,0.7,False
+ROU,Romania,b5,Class 5,profile_vs_alternative,Class 5,Romania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Saudi Arabia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Saudi Arabia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+SAU,Saudi Arabia,b1,Class 1,alternative_vs_profile,Saudi Arabia,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b1,Class 1,profile_vs_alternative,Class 1,Saudi Arabia,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+SAU,Saudi Arabia,b2,Class 2,alternative_vs_profile,Saudi Arabia,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b2,Class 2,profile_vs_alternative,Class 2,Saudi Arabia,0.10527452745274528,"C2,C5",0.0,0.0,0.7,False
+SAU,Saudi Arabia,b3,Class 3,alternative_vs_profile,Saudi Arabia,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b3,Class 3,profile_vs_alternative,Class 3,Saudi Arabia,0.5634642955551517,None,1.0,0.5634642955551517,0.7,False
+SAU,Saudi Arabia,b4,Class 4,alternative_vs_profile,Saudi Arabia,Class 4,0.7997553766071794,None,1.0,0.7997553766071794,0.7,True
+SAU,Saudi Arabia,b4,Class 4,profile_vs_alternative,Class 4,Saudi Arabia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SAU,Saudi Arabia,b5,Class 5,alternative_vs_profile,Saudi Arabia,Class 5,0.4731591095227458,None,1.0,0.4731591095227458,0.7,False
+SAU,Saudi Arabia,b5,Class 5,profile_vs_alternative,Class 5,Saudi Arabia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Singapore,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Singapore,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+SGP,Singapore,b1,Class 1,alternative_vs_profile,Singapore,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b1,Class 1,profile_vs_alternative,Class 1,Singapore,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+SGP,Singapore,b2,Class 2,alternative_vs_profile,Singapore,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b2,Class 2,profile_vs_alternative,Class 2,Singapore,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+SGP,Singapore,b3,Class 3,alternative_vs_profile,Singapore,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b3,Class 3,profile_vs_alternative,Class 3,Singapore,0.0,"C2,C5",0.0,0.0,0.7,False
+SGP,Singapore,b4,Class 4,alternative_vs_profile,Singapore,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b4,Class 4,profile_vs_alternative,Class 4,Singapore,0.2345046396531545,None,1.0,0.2345046396531545,0.7,False
+SGP,Singapore,b5,Class 5,alternative_vs_profile,Singapore,Class 5,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SGP,Singapore,b5,Class 5,profile_vs_alternative,Class 5,Singapore,0.6998213190302986,None,1.0,0.6998213190302986,0.7,False
+SXM,Sint Maarten (Dutch part),b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Sint Maarten (Dutch part),Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SXM,Sint Maarten (Dutch part),b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Sint Maarten (Dutch part),0.057369373300966454,"C2,C4,C6",0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b1,Class 1,alternative_vs_profile,Sint Maarten (Dutch part),Class 1,0.6526652665266526,None,1.0,0.6526652665266526,0.7,False
+SXM,Sint Maarten (Dutch part),b1,Class 1,profile_vs_alternative,Class 1,Sint Maarten (Dutch part),0.5336533653365336,C2,0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b2,Class 2,alternative_vs_profile,Sint Maarten (Dutch part),Class 2,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b2,Class 2,profile_vs_alternative,Class 2,Sint Maarten (Dutch part),0.5336533653365336,C2,0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b3,Class 3,alternative_vs_profile,Sint Maarten (Dutch part),Class 3,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b3,Class 3,profile_vs_alternative,Class 3,Sint Maarten (Dutch part),0.657732682359145,None,1.0,0.657732682359145,0.7,False
+SXM,Sint Maarten (Dutch part),b4,Class 4,alternative_vs_profile,Sint Maarten (Dutch part),Class 4,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b4,Class 4,profile_vs_alternative,Class 4,Sint Maarten (Dutch part),0.9824542454245424,None,1.0,0.9824542454245424,0.7,True
+SXM,Sint Maarten (Dutch part),b5,Class 5,alternative_vs_profile,Sint Maarten (Dutch part),Class 5,0.3450799625417087,"C5,C6",0.0,0.0,0.7,False
+SXM,Sint Maarten (Dutch part),b5,Class 5,profile_vs_alternative,Class 5,Sint Maarten (Dutch part),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SVN,Slovenia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Slovenia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SVN,Slovenia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Slovenia,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+SVN,Slovenia,b1,Class 1,alternative_vs_profile,Slovenia,Class 1,0.9570033926469568,None,1.0,0.9570033926469568,0.7,True
+SVN,Slovenia,b1,Class 1,profile_vs_alternative,Class 1,Slovenia,0.18631863186318628,"C2,C5,C6",0.0,0.0,0.7,False
+SVN,Slovenia,b2,Class 2,alternative_vs_profile,Slovenia,Class 2,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+SVN,Slovenia,b2,Class 2,profile_vs_alternative,Class 2,Slovenia,0.39975168639858627,C2,0.0,0.0,0.7,False
+SVN,Slovenia,b3,Class 3,alternative_vs_profile,Slovenia,Class 3,0.6572566347543845,None,1.0,0.6572566347543845,0.7,False
+SVN,Slovenia,b3,Class 3,profile_vs_alternative,Class 3,Slovenia,0.6584248105400219,None,1.0,0.6584248105400219,0.7,False
+SVN,Slovenia,b4,Class 4,alternative_vs_profile,Slovenia,Class 4,0.6113611361136113,C5,0.0,0.0,0.7,False
+SVN,Slovenia,b4,Class 4,profile_vs_alternative,Class 4,Slovenia,0.9960806891499959,None,1.0,0.9960806891499959,0.7,True
+SVN,Slovenia,b5,Class 5,alternative_vs_profile,Slovenia,Class 5,0.5170426133522443,C5,0.0,0.0,0.7,False
+SVN,Slovenia,b5,Class 5,profile_vs_alternative,Class 5,Slovenia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ZAF,South Africa,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,South Africa,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ZAF,South Africa,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),South Africa,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ZAF,South Africa,b1,Class 1,alternative_vs_profile,South Africa,Class 1,0.8549854985498548,C6,0.0,0.0,0.7,False
+ZAF,South Africa,b1,Class 1,profile_vs_alternative,Class 1,South Africa,0.145014501450145,"C2,C5",0.0,0.0,0.7,False
+ZAF,South Africa,b2,Class 2,alternative_vs_profile,South Africa,Class 2,0.8549854985498548,C6,0.0,0.0,0.7,False
+ZAF,South Africa,b2,Class 2,profile_vs_alternative,Class 2,South Africa,0.27400432350927395,"C2,C5",0.0,0.0,0.7,False
+ZAF,South Africa,b3,Class 3,alternative_vs_profile,South Africa,Class 3,0.6973312715886972,C6,0.0,0.0,0.7,False
+ZAF,South Africa,b3,Class 3,profile_vs_alternative,Class 3,South Africa,0.4716991699169916,None,1.0,0.4716991699169916,0.7,False
+ZAF,South Africa,b4,Class 4,alternative_vs_profile,South Africa,Class 4,0.645719117366282,C6,0.0,0.0,0.7,False
+ZAF,South Africa,b4,Class 4,profile_vs_alternative,Class 4,South Africa,0.8023984216603477,None,1.0,0.8023984216603477,0.7,True
+ZAF,South Africa,b5,Class 5,alternative_vs_profile,South Africa,Class 5,0.6055605560556054,C6,0.0,0.0,0.7,False
+ZAF,South Africa,b5,Class 5,profile_vs_alternative,Class 5,South Africa,0.893542295406011,None,1.0,0.893542295406011,0.7,True
+ESP,Spain,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Spain,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ESP,Spain,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Spain,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ESP,Spain,b1,Class 1,alternative_vs_profile,Spain,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ESP,Spain,b1,Class 1,profile_vs_alternative,Class 1,Spain,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+ESP,Spain,b2,Class 2,alternative_vs_profile,Spain,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ESP,Spain,b2,Class 2,profile_vs_alternative,Class 2,Spain,0.11160921497555162,C5,0.0,0.0,0.7,False
+ESP,Spain,b3,Class 3,alternative_vs_profile,Spain,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ESP,Spain,b3,Class 3,profile_vs_alternative,Class 3,Spain,0.490723981489058,C5,0.0,0.0,0.7,False
+ESP,Spain,b4,Class 4,alternative_vs_profile,Spain,Class 4,0.9176944721499175,None,1.0,0.9176944721499175,0.7,True
+ESP,Spain,b4,Class 4,profile_vs_alternative,Class 4,Spain,0.6113611361136113,C5,0.0,0.0,0.7,False
+ESP,Spain,b5,Class 5,alternative_vs_profile,Spain,Class 5,0.6349089454399984,None,1.0,0.6349089454399984,0.7,False
+ESP,Spain,b5,Class 5,profile_vs_alternative,Class 5,Spain,0.6113611361136113,C5,0.0,0.0,0.7,False
+LKA,Sri Lanka,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Sri Lanka,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LKA,Sri Lanka,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Sri Lanka,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+LKA,Sri Lanka,b1,Class 1,alternative_vs_profile,Sri Lanka,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LKA,Sri Lanka,b1,Class 1,profile_vs_alternative,Class 1,Sri Lanka,0.00877287728772874,"C2,C5,C6",0.0,0.0,0.7,False
+LKA,Sri Lanka,b2,Class 2,alternative_vs_profile,Sri Lanka,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LKA,Sri Lanka,b2,Class 2,profile_vs_alternative,Class 2,Sri Lanka,0.3037105849622395,C2,0.0,0.0,0.7,False
+LKA,Sri Lanka,b3,Class 3,alternative_vs_profile,Sri Lanka,Class 3,0.8631922015730984,None,1.0,0.8631922015730984,0.7,True
+LKA,Sri Lanka,b3,Class 3,profile_vs_alternative,Class 3,Sri Lanka,0.5756393821200301,None,1.0,0.5756393821200301,0.7,False
+LKA,Sri Lanka,b4,Class 4,alternative_vs_profile,Sri Lanka,Class 4,0.7976797679767975,C5,0.0,0.0,0.7,False
+LKA,Sri Lanka,b4,Class 4,profile_vs_alternative,Class 4,Sri Lanka,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LKA,Sri Lanka,b5,Class 5,alternative_vs_profile,Sri Lanka,Class 5,0.43896026268663535,C5,0.0,0.0,0.7,False
+LKA,Sri Lanka,b5,Class 5,profile_vs_alternative,Class 5,Sri Lanka,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LCA,St. Lucia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,St. Lucia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LCA,St. Lucia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),St. Lucia,0.20232023202320232,"C2,C4,C6",0.0,0.0,0.7,False
+LCA,St. Lucia,b1,Class 1,alternative_vs_profile,St. Lucia,Class 1,0.7976797679767975,None,1.0,0.7976797679767975,0.7,True
+LCA,St. Lucia,b1,Class 1,profile_vs_alternative,Class 1,St. Lucia,0.3886388638863886,C2,0.0,0.0,0.7,False
+LCA,St. Lucia,b2,Class 2,alternative_vs_profile,St. Lucia,Class 2,0.6113611361136113,C5,0.0,0.0,0.7,False
+LCA,St. Lucia,b2,Class 2,profile_vs_alternative,Class 2,St. Lucia,0.5862906290629062,None,1.0,0.5862906290629062,0.7,False
+LCA,St. Lucia,b3,Class 3,alternative_vs_profile,St. Lucia,Class 3,0.4741852563634741,C5,0.0,0.0,0.7,False
+LCA,St. Lucia,b3,Class 3,profile_vs_alternative,Class 3,St. Lucia,0.9775432088663409,None,1.0,0.9775432088663409,0.7,True
+LCA,St. Lucia,b4,Class 4,alternative_vs_profile,St. Lucia,Class 4,0.39897626126248986,C5,0.0,0.0,0.7,False
+LCA,St. Lucia,b4,Class 4,profile_vs_alternative,Class 4,St. Lucia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+LCA,St. Lucia,b5,Class 5,alternative_vs_profile,St. Lucia,Class 5,0.2193219321932193,"C5,C6",0.0,0.0,0.7,False
+LCA,St. Lucia,b5,Class 5,profile_vs_alternative,Class 5,St. Lucia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SWE,Sweden,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Sweden,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SWE,Sweden,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Sweden,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+SWE,Sweden,b1,Class 1,alternative_vs_profile,Sweden,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+SWE,Sweden,b1,Class 1,profile_vs_alternative,Class 1,Sweden,0.11465761960811464,"C2,C5,C6",0.0,0.0,0.7,False
+SWE,Sweden,b2,Class 2,alternative_vs_profile,Sweden,Class 2,0.9140067852939138,None,1.0,0.9140067852939138,0.7,True
+SWE,Sweden,b2,Class 2,profile_vs_alternative,Class 2,Sweden,0.25650165016501647,"C2,C5",0.0,0.0,0.7,False
+SWE,Sweden,b3,Class 3,alternative_vs_profile,Sweden,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+SWE,Sweden,b3,Class 3,profile_vs_alternative,Class 3,Sweden,0.6404822300411859,C5,0.0,0.0,0.7,False
+SWE,Sweden,b4,Class 4,alternative_vs_profile,Sweden,Class 4,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+SWE,Sweden,b4,Class 4,profile_vs_alternative,Class 4,Sweden,0.8386250389744856,C5,0.0,0.0,0.7,False
+SWE,Sweden,b5,Class 5,alternative_vs_profile,Sweden,Class 5,0.5506624372510961,None,1.0,0.5506624372510961,0.7,False
+SWE,Sweden,b5,Class 5,profile_vs_alternative,Class 5,Sweden,0.9368936893689368,None,1.0,0.9368936893689368,0.7,True
+TWN,"Taiwan, China",b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,"Taiwan, China",Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TWN,"Taiwan, China",b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),"Taiwan, China",0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+TWN,"Taiwan, China",b1,Class 1,alternative_vs_profile,"Taiwan, China",Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TWN,"Taiwan, China",b1,Class 1,profile_vs_alternative,Class 1,"Taiwan, China",0.0,"C2,C6",0.0,0.0,0.7,False
+TWN,"Taiwan, China",b2,Class 2,alternative_vs_profile,"Taiwan, China",Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TWN,"Taiwan, China",b2,Class 2,profile_vs_alternative,Class 2,"Taiwan, China",0.0631063106310631,"C2,C6",0.0,0.0,0.7,False
+TWN,"Taiwan, China",b3,Class 3,alternative_vs_profile,"Taiwan, China",Class 3,0.9368936893689368,None,1.0,0.9368936893689368,0.7,True
+TWN,"Taiwan, China",b3,Class 3,profile_vs_alternative,Class 3,"Taiwan, China",0.2928798334378892,None,1.0,0.2928798334378892,0.7,False
+TWN,"Taiwan, China",b4,Class 4,alternative_vs_profile,"Taiwan, China",Class 4,0.8938970820158938,C5,0.0,0.0,0.7,False
+TWN,"Taiwan, China",b4,Class 4,profile_vs_alternative,Class 4,"Taiwan, China",0.9255330938499253,None,1.0,0.9255330938499253,0.7,True
+TWN,"Taiwan, China",b5,Class 5,alternative_vs_profile,"Taiwan, China",Class 5,0.4966961936835394,C5,0.0,0.0,0.7,False
+TWN,"Taiwan, China",b5,Class 5,profile_vs_alternative,Class 5,"Taiwan, China",0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TZA,Tanzania,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Tanzania,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TZA,Tanzania,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Tanzania,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+TZA,Tanzania,b1,Class 1,alternative_vs_profile,Tanzania,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TZA,Tanzania,b1,Class 1,profile_vs_alternative,Class 1,Tanzania,0.7976797679767975,C5,0.0,0.0,0.7,False
+TZA,Tanzania,b2,Class 2,alternative_vs_profile,Tanzania,Class 2,0.5146169162370782,None,1.0,0.5146169162370782,0.7,False
+TZA,Tanzania,b2,Class 2,profile_vs_alternative,Class 2,Tanzania,0.9713153133495167,None,1.0,0.9713153133495167,0.7,True
+TZA,Tanzania,b3,Class 3,alternative_vs_profile,Tanzania,Class 3,0.014342343325241614,C6,0.0,0.0,0.7,False
+TZA,Tanzania,b3,Class 3,profile_vs_alternative,Class 3,Tanzania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TZA,Tanzania,b4,Class 4,alternative_vs_profile,Tanzania,Class 4,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+TZA,Tanzania,b4,Class 4,profile_vs_alternative,Class 4,Tanzania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TZA,Tanzania,b5,Class 5,alternative_vs_profile,Tanzania,Class 5,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+TZA,Tanzania,b5,Class 5,profile_vs_alternative,Class 5,Tanzania,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+THA,Thailand,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Thailand,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+THA,Thailand,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Thailand,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+THA,Thailand,b1,Class 1,alternative_vs_profile,Thailand,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+THA,Thailand,b1,Class 1,profile_vs_alternative,Class 1,Thailand,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+THA,Thailand,b2,Class 2,alternative_vs_profile,Thailand,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+THA,Thailand,b2,Class 2,profile_vs_alternative,Class 2,Thailand,0.25650165016501647,"C2,C5",0.0,0.0,0.7,False
+THA,Thailand,b3,Class 3,alternative_vs_profile,Thailand,Class 3,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+THA,Thailand,b3,Class 3,profile_vs_alternative,Class 3,Thailand,0.4056405640564056,None,1.0,0.4056405640564056,0.7,False
+THA,Thailand,b4,Class 4,alternative_vs_profile,Thailand,Class 4,0.807944430806717,None,1.0,0.807944430806717,0.7,True
+THA,Thailand,b4,Class 4,profile_vs_alternative,Class 4,Thailand,0.9490489589499489,None,1.0,0.9490489589499489,0.7,True
+THA,Thailand,b5,Class 5,alternative_vs_profile,Thailand,Class 5,0.7314030868327475,None,1.0,0.7314030868327475,0.7,True
+THA,Thailand,b5,Class 5,profile_vs_alternative,Class 5,Thailand,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TGO,Togo,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Togo,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TGO,Togo,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Togo,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+TGO,Togo,b1,Class 1,alternative_vs_profile,Togo,Class 1,0.8515327468575733,None,1.0,0.8515327468575733,0.7,True
+TGO,Togo,b1,Class 1,profile_vs_alternative,Class 1,Togo,0.6686668666866685,C6,0.0,0.0,0.7,False
+TGO,Togo,b2,Class 2,alternative_vs_profile,Togo,Class 2,0.5739801252852557,None,1.0,0.5739801252852557,0.7,False
+TGO,Togo,b2,Class 2,profile_vs_alternative,Class 2,Togo,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+TGO,Togo,b3,Class 3,alternative_vs_profile,Togo,Class 3,0.28538053805380537,"C2,C5",0.0,0.0,0.7,False
+TGO,Togo,b3,Class 3,profile_vs_alternative,Class 3,Togo,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TGO,Togo,b4,Class 4,alternative_vs_profile,Togo,Class 4,0.15378737873787374,"C2,C5",0.0,0.0,0.7,False
+TGO,Togo,b4,Class 4,profile_vs_alternative,Class 4,Togo,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TGO,Togo,b5,Class 5,alternative_vs_profile,Togo,Class 5,0.047031730200046994,"C2,C5",0.0,0.0,0.7,False
+TGO,Togo,b5,Class 5,profile_vs_alternative,Class 5,Togo,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUN,Tunisia,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Tunisia,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUN,Tunisia,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Tunisia,0.18631863186318628,"C2,C4,C5,C6",0.0,0.0,0.7,False
+TUN,Tunisia,b1,Class 1,alternative_vs_profile,Tunisia,Class 1,0.8136813681368136,None,1.0,0.8136813681368136,0.7,True
+TUN,Tunisia,b1,Class 1,profile_vs_alternative,Class 1,Tunisia,0.6526652665266526,"C5,C6",0.0,0.0,0.7,False
+TUN,Tunisia,b2,Class 2,alternative_vs_profile,Tunisia,Class 2,0.6119051905190518,None,1.0,0.6119051905190518,0.7,False
+TUN,Tunisia,b2,Class 2,profile_vs_alternative,Class 2,Tunisia,0.8102053954492139,None,1.0,0.8102053954492139,0.7,True
+TUN,Tunisia,b3,Class 3,alternative_vs_profile,Tunisia,Class 3,0.22857045062795048,None,1.0,0.22857045062795048,0.7,False
+TUN,Tunisia,b3,Class 3,profile_vs_alternative,Class 3,Tunisia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUN,Tunisia,b4,Class 4,alternative_vs_profile,Tunisia,Class 4,0.06270897360006268,"C2,C5",0.0,0.0,0.7,False
+TUN,Tunisia,b4,Class 4,profile_vs_alternative,Class 4,Tunisia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUN,Tunisia,b5,Class 5,alternative_vs_profile,Tunisia,Class 5,0.0,"C2,C5",0.0,0.0,0.7,False
+TUN,Tunisia,b5,Class 5,profile_vs_alternative,Class 5,Tunisia,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUR,Türkiye,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Türkiye,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUR,Türkiye,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Türkiye,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+TUR,Türkiye,b1,Class 1,alternative_vs_profile,Türkiye,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+TUR,Türkiye,b1,Class 1,profile_vs_alternative,Class 1,Türkiye,0.06141014101410142,"C2,C5",0.0,0.0,0.7,False
+TUR,Türkiye,b2,Class 2,alternative_vs_profile,Türkiye,Class 2,0.9568875806499568,None,1.0,0.9568875806499568,0.7,True
+TUR,Türkiye,b2,Class 2,profile_vs_alternative,Class 2,Türkiye,0.3643364336433643,C5,0.0,0.0,0.7,False
+TUR,Türkiye,b3,Class 3,alternative_vs_profile,Türkiye,Class 3,0.8549854985498548,None,1.0,0.8549854985498548,0.7,True
+TUR,Türkiye,b3,Class 3,profile_vs_alternative,Class 3,Türkiye,0.579921628526489,C5,0.0,0.0,0.7,False
+TUR,Türkiye,b4,Class 4,alternative_vs_profile,Türkiye,Class 4,0.7965978416023419,None,1.0,0.7965978416023419,0.7,True
+TUR,Türkiye,b4,Class 4,profile_vs_alternative,Class 4,Türkiye,0.991394594004855,None,1.0,0.991394594004855,0.7,True
+TUR,Türkiye,b5,Class 5,alternative_vs_profile,Türkiye,Class 5,0.4231201581696631,C6,0.0,0.0,0.7,False
+TUR,Türkiye,b5,Class 5,profile_vs_alternative,Class 5,Türkiye,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARE,United Arab Emirates,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,United Arab Emirates,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARE,United Arab Emirates,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),United Arab Emirates,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+ARE,United Arab Emirates,b1,Class 1,alternative_vs_profile,United Arab Emirates,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARE,United Arab Emirates,b1,Class 1,profile_vs_alternative,Class 1,United Arab Emirates,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+ARE,United Arab Emirates,b2,Class 2,alternative_vs_profile,United Arab Emirates,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARE,United Arab Emirates,b2,Class 2,profile_vs_alternative,Class 2,United Arab Emirates,0.0,"C2,C5",0.0,0.0,0.7,False
+ARE,United Arab Emirates,b3,Class 3,alternative_vs_profile,United Arab Emirates,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+ARE,United Arab Emirates,b3,Class 3,profile_vs_alternative,Class 3,United Arab Emirates,0.2790934425137845,C5,0.0,0.0,0.7,False
+ARE,United Arab Emirates,b4,Class 4,alternative_vs_profile,United Arab Emirates,Class 4,0.9570033926469568,None,1.0,0.9570033926469568,0.7,True
+ARE,United Arab Emirates,b4,Class 4,profile_vs_alternative,Class 4,United Arab Emirates,0.7976797679767975,C5,0.0,0.0,0.7,False
+ARE,United Arab Emirates,b5,Class 5,alternative_vs_profile,United Arab Emirates,Class 5,0.6564838302012019,None,1.0,0.6564838302012019,0.7,False
+ARE,United Arab Emirates,b5,Class 5,profile_vs_alternative,Class 5,United Arab Emirates,0.8058688221763353,C5,0.0,0.0,0.7,False
+GBR,United Kingdom,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,United Kingdom,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GBR,United Kingdom,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),United Kingdom,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+GBR,United Kingdom,b1,Class 1,alternative_vs_profile,United Kingdom,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GBR,United Kingdom,b1,Class 1,profile_vs_alternative,Class 1,United Kingdom,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+GBR,United Kingdom,b2,Class 2,alternative_vs_profile,United Kingdom,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GBR,United Kingdom,b2,Class 2,profile_vs_alternative,Class 2,United Kingdom,0.0,"C2,C5",0.0,0.0,0.7,False
+GBR,United Kingdom,b3,Class 3,alternative_vs_profile,United Kingdom,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GBR,United Kingdom,b3,Class 3,profile_vs_alternative,Class 3,United Kingdom,0.0526372637263726,C5,0.0,0.0,0.7,False
+GBR,United Kingdom,b4,Class 4,alternative_vs_profile,United Kingdom,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+GBR,United Kingdom,b4,Class 4,profile_vs_alternative,Class 4,United Kingdom,0.5253185859126452,C5,0.0,0.0,0.7,False
+GBR,United Kingdom,b5,Class 5,alternative_vs_profile,United Kingdom,Class 5,0.959577775959414,None,1.0,0.959577775959414,0.7,True
+GBR,United Kingdom,b5,Class 5,profile_vs_alternative,Class 5,United Kingdom,0.6113611361136113,C5,0.0,0.0,0.7,False
+USA,United States,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,United States,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+USA,United States,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),United States,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+USA,United States,b1,Class 1,alternative_vs_profile,United States,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+USA,United States,b1,Class 1,profile_vs_alternative,Class 1,United States,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+USA,United States,b2,Class 2,alternative_vs_profile,United States,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+USA,United States,b2,Class 2,profile_vs_alternative,Class 2,United States,0.0,"C2,C5",0.0,0.0,0.7,False
+USA,United States,b3,Class 3,alternative_vs_profile,United States,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+USA,United States,b3,Class 3,profile_vs_alternative,Class 3,United States,0.2502890289028903,C5,0.0,0.0,0.7,False
+USA,United States,b4,Class 4,alternative_vs_profile,United States,Class 4,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+USA,United States,b4,Class 4,profile_vs_alternative,Class 4,United States,0.6113611361136113,C5,0.0,0.0,0.7,False
+USA,United States,b5,Class 5,alternative_vs_profile,United States,Class 5,0.8537563830093081,None,1.0,0.8537563830093081,0.7,True
+USA,United States,b5,Class 5,profile_vs_alternative,Class 5,United States,0.6113611361136113,C5,0.0,0.0,0.7,False
+URY,Uruguay,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Uruguay,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+URY,Uruguay,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Uruguay,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+URY,Uruguay,b1,Class 1,alternative_vs_profile,Uruguay,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+URY,Uruguay,b1,Class 1,profile_vs_alternative,Class 1,Uruguay,0.510705616016147,C2,0.0,0.0,0.7,False
+URY,Uruguay,b2,Class 2,alternative_vs_profile,Uruguay,Class 2,0.5036367273090945,C6,0.0,0.0,0.7,False
+URY,Uruguay,b2,Class 2,profile_vs_alternative,Class 2,Uruguay,0.5336533653365336,C2,0.0,0.0,0.7,False
+URY,Uruguay,b3,Class 3,alternative_vs_profile,Uruguay,Class 3,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+URY,Uruguay,b3,Class 3,profile_vs_alternative,Class 3,Uruguay,0.6740194019401939,C2,0.0,0.0,0.7,False
+URY,Uruguay,b4,Class 4,alternative_vs_profile,Uruguay,Class 4,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+URY,Uruguay,b4,Class 4,profile_vs_alternative,Class 4,Uruguay,0.8517851785178516,None,1.0,0.8517851785178516,0.7,True
+URY,Uruguay,b5,Class 5,alternative_vs_profile,Uruguay,Class 5,0.46634663466346626,"C5,C6",0.0,0.0,0.7,False
+URY,Uruguay,b5,Class 5,profile_vs_alternative,Class 5,Uruguay,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b0,Boundary b0 (duplicate of Class 1),alternative_vs_profile,Vietnam,Boundary b0 (duplicate of Class 1),0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b0,Boundary b0 (duplicate of Class 1),profile_vs_alternative,Boundary b0 (duplicate of Class 1),Vietnam,0.0,"C2,C4,C5,C6",0.0,0.0,0.7,False
+VNM,Vietnam,b1,Class 1,alternative_vs_profile,Vietnam,Class 1,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b1,Class 1,profile_vs_alternative,Class 1,Vietnam,0.0,"C2,C5,C6",0.0,0.0,0.7,False
+VNM,Vietnam,b2,Class 2,alternative_vs_profile,Vietnam,Class 2,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b2,Class 2,profile_vs_alternative,Class 2,Vietnam,0.2676524949792276,C5,0.0,0.0,0.7,False
+VNM,Vietnam,b3,Class 3,alternative_vs_profile,Vietnam,Class 3,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b3,Class 3,profile_vs_alternative,Class 3,Vietnam,0.8974924230390953,None,1.0,0.8974924230390953,0.7,True
+VNM,Vietnam,b4,Class 4,alternative_vs_profile,Vietnam,Class 4,0.5379455274621261,None,1.0,0.5379455274621261,0.7,False
+VNM,Vietnam,b4,Class 4,profile_vs_alternative,Class 4,Vietnam,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True
+VNM,Vietnam,b5,Class 5,alternative_vs_profile,Vietnam,Class 5,0.24627008155360985,C5,0.0,0.0,0.7,False
+VNM,Vietnam,b5,Class 5,profile_vs_alternative,Class 5,Vietnam,0.9999999999999998,None,1.0,0.9999999999999998,0.7,True

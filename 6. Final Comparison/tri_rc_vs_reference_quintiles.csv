@@ -1,0 +1,97 @@
+REF_AREA,REF_AREA_LABEL,Rank,Reference score,reference_quintile,country,lower_class,upper_class,class_interval,precise_assignment
+USA,United States,1,0.963244467,5,United States,5,5,"[5, 5]",True
+GBR,United Kingdom,2,0.944202054,5,United Kingdom,5,5,"[5, 5]",True
+NLD,Netherlands,3,0.924939666,5,Netherlands,5,5,"[5, 5]",True
+FRA,France,4,0.909808292,5,France,5,5,"[5, 5]",True
+DEU,Germany,5,0.894230087,5,Germany,5,5,"[5, 5]",True
+BEL,Belgium,6,0.891211198,5,Belgium,5,5,"[5, 5]",True
+SGP,Singapore,7,0.882732075,5,Singapore,5,5,"[5, 5]",True
+ESP,Spain,8,0.875788161,5,Spain,5,5,"[5, 5]",True
+CHN,China,9,0.866342858,5,China,5,5,"[5, 5]",True
+ITA,Italy,10,0.842808258,5,Italy,5,5,"[5, 5]",True
+KOR,"Korea, Rep.",11,0.832169754,5,"Korea, Rep.",5,5,"[5, 5]",True
+CAN,Canada,12,0.816326738,5,Canada,5,5,"[5, 5]",True
+ARE,United Arab Emirates,13,0.815950248,5,United Arab Emirates,5,5,"[5, 5]",True
+HKG,"Hong Kong SAR, China",14,0.81150678,5,"Hong Kong SAR, China",5,5,"[5, 5]",True
+IND,India,15,0.788497081,5,India,4,4,"[4, 4]",True
+MYS,Malaysia,16,0.780948141,5,Malaysia,4,4,"[4, 4]",True
+PRT,Portugal,17,0.766357857,5,Portugal,4,4,"[4, 4]",True
+JPN,Japan,18,0.7580768,5,Japan,4,5,"[4, 5]",False
+AUS,Australia,19,0.757405736,5,Australia,4,4,"[4, 4]",True
+DNK,Denmark,20,0.739490255,5,Denmark,5,5,"[5, 5]",True
+SWE,Sweden,21,0.725649988,4,Sweden,5,5,"[5, 5]",True
+SAU,Saudi Arabia,22,0.724003396,4,Saudi Arabia,4,4,"[4, 4]",True
+TUR,Turkey,23,0.719981285,4,Türkiye,4,4,"[4, 4]",True
+THA,Thailand,24,0.718222655,4,Thailand,4,5,"[4, 5]",False
+NZL,New Zealand,25,0.716124408,4,New Zealand,4,4,"[4, 4]",True
+GRC,Greece,26,0.713774596,4,Greece,4,4,"[4, 4]",True
+IRL,Ireland,27,0.710024017,4,Ireland,4,5,"[4, 5]",False
+TWN,"Taiwan, China",28,0.708829535,4,"Taiwan, China",3,3,"[3, 3]",True
+POL,Poland,29,0.704725961,4,Poland,4,4,"[4, 4]",True
+ZAF,South Africa,30,0.689895592,4,South Africa,1,3,"[1, 3]",False
+LKA,Sri Lanka,31,0.668310794,4,Sri Lanka,3,3,"[3, 3]",True
+VNM,Vietnam,32,0.66607865,4,Vietnam,3,3,"[3, 3]",True
+MAR,Morocco,33,0.665034334,4,Morocco,3,3,"[3, 3]",True
+FIN,Finland,34,0.664577752,4,Finland,4,4,"[4, 4]",True
+QAT,Qatar,35,0.663585025,4,Qatar,3,3,"[3, 3]",True
+BRA,Brazil,36,0.662899532,4,Brazil,1,4,"[1, 4]",False
+MEX,Mexico,37,0.659086071,4,Mexico,3,3,"[3, 3]",True
+MLT,Malta,38,0.657560525,4,Malta,3,3,"[3, 3]",True
+IDN,Indonesia,39,0.657077717,4,Indonesia,3,3,"[3, 3]",True
+CYP,Cyprus,40,0.653028981,3,Cyprus,3,3,"[3, 3]",True
+NOR,Norway,41,0.649929834,3,Norway,3,3,"[3, 3]",True
+ROU,Romania,42,0.638447971,3,Romania,3,3,"[3, 3]",True
+COL,Colombia,43,0.632139573,3,Colombia,1,2,"[1, 2]",False
+PER,Peru,44,0.620290387,3,Peru,3,3,"[3, 3]",True
+OMN,Oman,45,0.617725491,3,Oman,3,3,"[3, 3]",True
+LTU,Lithuania,46,0.61648047,3,Lithuania,3,3,"[3, 3]",True
+KEN,Kenya,47,0.616433114,3,Kenya,2,3,"[2, 3]",False
+SVN,Slovenia,48,0.604889003,3,Slovenia,3,3,"[3, 3]",True
+PAN,Panama,49,0.599633769,3,Panama,2,2,"[2, 2]",True
+EST,Estonia,50,0.598790648,3,Estonia,3,3,"[3, 3]",True
+LVA,Latvia,51,0.592595214,3,Latvia,3,3,"[3, 3]",True
+HRV,Croatia,52,0.592071472,3,Croatia,3,3,"[3, 3]",True
+PAK,Pakistan,53,0.588406543,3,Pakistan,3,3,"[3, 3]",True
+CHL,Chile,54,0.587149671,3,Chile,3,3,"[3, 3]",True
+EGY,"Egypt, Arab Rep.",55,0.574101906,3,"Egypt, Arab Rep.",2,4,"[2, 4]",False
+PHL,Philippines,56,0.572924527,3,Philippines,2,2,"[2, 2]",True
+JOR,Jordan,57,0.572150981,3,Jordan,3,3,"[3, 3]",True
+BHR,Bahrain,58,0.569352791,3,Bahrain,3,3,"[3, 3]",True
+GEO,Georgia,59,0.566801423,2,Georgia,3,3,"[3, 3]",True
+MUS,Mauritius,60,0.565627526,2,Mauritius,1,3,"[1, 3]",False
+URY,Uruguay,61,0.563674097,2,Uruguay,1,4,"[1, 4]",False
+LBN,Lebanon,62,0.558946843,2,Lebanon,2,2,"[2, 2]",True
+ARG,Argentina,63,0.557360773,2,Argentina,1,3,"[1, 3]",False
+GHA,Ghana,64,0.541455843,2,Ghana,2,2,"[2, 2]",True
+IRQ,Iraq,65,0.540955484,2,Iraq,2,2,"[2, 2]",True
+KHM,Cambodia,66,0.536443531,2,Cambodia,2,3,"[2, 3]",False
+MDV,Maldives,67,0.528750421,2,Maldives,2,2,"[2, 2]",True
+KWT,Kuwait,68,0.523939659,2,Kuwait,1,2,"[1, 2]",False
+CRI,Costa Rica,69,0.515542811,2,Costa Rica,1,1,"[1, 1]",True
+JAM,Jamaica,70,0.508272808,2,Jamaica,2,2,"[2, 2]",True
+DOM,Dominican Republic,71,0.507043883,2,Dominican Republic,1,2,"[1, 2]",False
+SXM,Sint Maarten (Dutch part),72,0.480120349,2,Sint Maarten (Dutch part),1,3,"[1, 3]",False
+SLV,El Salvador,73,0.479912918,2,El Salvador,1,2,"[1, 2]",False
+CIV,Ivory Coast,74,0.476765178,2,Côte d’Ivoire,2,2,"[2, 2]",True
+NGA,Nigeria,75,0.473893149,2,Nigeria,1,3,"[1, 3]",False
+BGD,Bangladesh,76,0.471764131,2,Bangladesh,1,1,"[1, 1]",True
+MDG,Madagascar,77,0.471574596,2,Madagascar,2,2,"[2, 2]",True
+ABW,Aruba,78,0.466219116,1,Aruba,1,2,"[1, 2]",False
+ATG,Antigua and Barbuda,79,0.457000479,1,Antigua and Barbuda,1,2,"[1, 2]",False
+LCA,St. Lucia,80,0.455019422,1,St. Lucia,1,2,"[1, 2]",False
+TUN,Tunisia,81,0.452178038,1,Tunisia,2,2,"[2, 2]",True
+TZA,Tanzania,82,0.44609351,1,Tanzania,2,2,"[2, 2]",True
+TGO,Togo,83,0.435939958,1,Togo,2,2,"[2, 2]",True
+AGO,Angola,84,0.417103129,1,Angola,1,2,"[1, 2]",False
+BRB,Barbados,85,0.416527738,1,Barbados,1,1,"[1, 1]",True
+HND,Honduras,86,0.415346949,1,Honduras,1,1,"[1, 1]",True
+NIC,Nicaragua,87,0.412146045,1,Nicaragua,1,2,"[1, 2]",False
+CMR,Cameroon,88,0.408928816,1,Cameroon,1,2,"[1, 2]",False
+MOZ,Mozambique,89,0.402754227,1,Mozambique,1,2,"[1, 2]",False
+BHS,"Bahamas, The",90,0.401337161,1,"Bahamas, The",1,1,"[1, 1]",True
+ECU,Ecuador,91,0.400059424,1,Ecuador,1,2,"[1, 2]",False
+GTM,Guatemala,92,0.388287937,1,Guatemala,1,2,"[1, 2]",False
+MMR,Myanmar,93,0.372718823,1,Myanmar,1,2,"[1, 2]",False
+GAB,Gabon,94,0.305225642,1,Gabon,1,1,"[1, 1]",True
+COD,"Congo, Dem. Rep.",95,0.276049824,1,"Congo, Dem. Rep.",1,1,"[1, 1]",True
+DZA,Algeria,96,0.271683217,1,Algeria,1,2,"[1, 2]",False
