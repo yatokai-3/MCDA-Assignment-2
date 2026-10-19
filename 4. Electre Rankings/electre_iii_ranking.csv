@@ -4,69 +4,69 @@ United Kingdom,95,5,90,2
 Germany,95,7,88,3
 Netherlands,94,7,87,4
 France,94,8,86,5
-Belgium,93,10,83,6
 Canada,93,10,83,6
+Belgium,93,11,82,7
+Italy,89,10,79,8
 Spain,89,10,79,8
-Italy,88,10,78,9
-Singapore,86,8,78,9
+Singapore,86,8,78,10
 United Arab Emirates,89,14,75,11
-China,87,14,73,12
-Denmark,87,18,69,13
-"Korea, Rep.",85,17,68,14
+China,86,14,72,12
+Denmark,87,19,68,13
+"Korea, Rep.",85,17,68,13
 "Hong Kong SAR, China",80,13,67,15
-Japan,76,14,62,16
+Japan,75,14,61,16
+Australia,79,20,59,17
 India,77,18,59,17
-Australia,78,20,58,18
-Malaysia,79,23,56,19
-Sweden,78,22,56,19
+Malaysia,79,22,57,19
+Sweden,77,22,55,20
 Ireland,80,26,54,21
 Thailand,76,24,52,22
-Portugal,73,22,51,23
-New Zealand,67,18,49,24
+New Zealand,67,17,50,23
+Portugal,73,23,50,23
 Poland,76,28,48,25
 Saudi Arabia,75,28,47,26
 Finland,71,35,36,27
 Greece,63,28,35,28
+"Taiwan, China",53,22,31,29
 Turkey,56,25,31,29
-"Taiwan, China",53,23,30,30
 Vietnam,64,35,29,31
-Romania,62,37,25,32
-Cyprus,62,38,24,33
+Cyprus,62,37,25,32
 Qatar,61,37,24,33
+Romania,61,37,24,33
 Norway,63,43,20,35
 Sri Lanka,58,39,19,36
-Lithuania,57,42,15,37
-Malta,57,42,15,37
-Oman,53,38,15,37
+Malta,57,41,16,37
+Lithuania,57,42,15,38
+Oman,53,38,15,38
 Slovenia,53,44,9,40
 Croatia,52,44,8,41
 Estonia,49,43,6,42
 Latvia,47,41,6,42
 Peru,47,41,6,42
 Indonesia,38,35,3,45
-Mexico,34,35,-1,46
-Bahrain,43,45,-2,47
-Morocco,38,40,-2,47
+Bahrain,43,45,-2,46
+Mexico,33,35,-2,46
+Morocco,38,40,-2,46
 Georgia,42,48,-6,49
 Kenya,37,44,-7,50
 Brazil,20,28,-8,51
-Jordan,43,52,-9,52
-Colombia,24,40,-16,53
-South Africa,9,26,-17,54
-Chile,33,51,-18,55
+Jordan,43,51,-8,51
+Colombia,24,41,-17,53
+South Africa,9,26,-17,53
+Chile,32,50,-18,55
 Lebanon,30,48,-18,55
 Pakistan,27,45,-18,55
-Cambodia,30,52,-22,58
-"Egypt, Arab Rep.",7,29,-22,58
-Maldives,26,48,-22,58
+Cambodia,31,52,-21,58
+"Egypt, Arab Rep.",7,29,-22,59
+Maldives,26,48,-22,59
 Iraq,31,59,-28,61
 Ghana,19,48,-29,62
-Philippines,26,57,-31,63
-Uruguay,15,47,-32,64
+Uruguay,15,47,-32,63
+Philippines,25,58,-33,64
 El Salvador,20,55,-35,65
-Mauritius,21,57,-36,66
-Jamaica,22,59,-37,67
-Panama,18,55,-37,67
+Jamaica,23,58,-35,65
+Panama,18,54,-36,67
+Mauritius,20,57,-37,68
 Aruba,16,56,-40,69
 Madagascar,19,59,-40,69
 Argentina,10,53,-43,71

@@ -21,7 +21,7 @@ AUS,Australia,19,0.757405736,5,Australia,4,4,"[4, 4]",True
 DNK,Denmark,20,0.739490255,5,Denmark,5,5,"[5, 5]",True
 SWE,Sweden,21,0.725649988,4,Sweden,5,5,"[5, 5]",True
 SAU,Saudi Arabia,22,0.724003396,4,Saudi Arabia,4,4,"[4, 4]",True
-TUR,Turkey,23,0.719981285,4,Türkiye,4,4,"[4, 4]",True
+TUR,Turkey,23,0.719981285,4,Turkey,4,4,"[4, 4]",True
 THA,Thailand,24,0.718222655,4,Thailand,4,5,"[4, 5]",False
 NZL,New Zealand,25,0.716124408,4,New Zealand,4,4,"[4, 4]",True
 GRC,Greece,26,0.713774596,4,Greece,4,4,"[4, 4]",True
@@ -72,7 +72,7 @@ JAM,Jamaica,70,0.508272808,2,Jamaica,2,2,"[2, 2]",True
 DOM,Dominican Republic,71,0.507043883,2,Dominican Republic,1,2,"[1, 2]",False
 SXM,Sint Maarten (Dutch part),72,0.480120349,2,Sint Maarten (Dutch part),1,3,"[1, 3]",False
 SLV,El Salvador,73,0.479912918,2,El Salvador,1,2,"[1, 2]",False
-CIV,Ivory Coast,74,0.476765178,2,Côte d’Ivoire,2,2,"[2, 2]",True
+CIV,Ivory Coast,74,0.476765178,2,Ivory Coast,2,2,"[2, 2]",True
 NGA,Nigeria,75,0.473893149,2,Nigeria,1,3,"[1, 3]",False
 BGD,Bangladesh,76,0.471764131,2,Bangladesh,1,1,"[1, 1]",True
 MDG,Madagascar,77,0.471574596,2,Madagascar,2,2,"[2, 2]",True

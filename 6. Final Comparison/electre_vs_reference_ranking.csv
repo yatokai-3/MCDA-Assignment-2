@@ -1,97 +1,97 @@
-Economy,ELECTRE ranking,Reference ranking
-United States,1,1
-United Kingdom,2,2
-Germany,3,5
-Netherlands,4,3
-France,5,4
-Canada,6,12
-Belgium,6,6
-Spain,8,8
-Singapore,9,7
-Italy,9,10
-United Arab Emirates,11,13
-China,12,9
-Denmark,13,20
-"Korea, Rep.",14,11
-"Hong Kong SAR, China",15,14
-Japan,16,18
-India,17,15
-Australia,18,19
-Sweden,19,21
-Malaysia,19,16
-Ireland,21,27
-Thailand,22,24
-Portugal,23,17
-New Zealand,24,25
-Poland,25,29
-Saudi Arabia,26,22
-Finland,27,34
-Greece,28,26
-Turkey,29,23
-"Taiwan, China",30,28
-Vietnam,31,32
-Romania,32,42
-Cyprus,33,40
-Qatar,33,35
-Norway,35,41
-Sri Lanka,36,31
-Malta,37,38
-Lithuania,37,46
-Oman,37,45
-Slovenia,40,48
-Croatia,41,52
-Peru,42,44
-Latvia,42,51
-Estonia,42,50
-Indonesia,45,39
-Mexico,46,37
-Bahrain,47,58
-Morocco,47,33
-Georgia,49,59
-Kenya,50,47
-Brazil,51,36
-Jordan,52,57
-Colombia,53,43
-South Africa,54,30
-Lebanon,55,62
-Chile,55,54
-Pakistan,55,53
-"Egypt, Arab Rep.",58,55
-Maldives,58,67
-Cambodia,58,66
-Iraq,61,65
-Ghana,62,64
-Philippines,63,56
-Uruguay,64,61
-El Salvador,65,73
-Mauritius,66,60
-Panama,67,49
-Jamaica,67,70
-Madagascar,69,77
-Aruba,69,78
-Argentina,71,63
-Ivory Coast,72,74
-Nigeria,73,75
-Nicaragua,74,87
-Kuwait,75,68
-Togo,76,83
-St. Lucia,76,80
-Myanmar,76,93
-Cameroon,79,88
-Sint Maarten (Dutch part),79,72
-Tunisia,79,81
-Antigua and Barbuda,82,79
-Costa Rica,83,69
-Bangladesh,84,76
-Tanzania,84,82
-Dominican Republic,86,71
-Algeria,87,96
-Ecuador,88,91
-Barbados,89,85
-Angola,89,84
-Mozambique,91,89
-Honduras,92,86
-"Bahamas, The",93,90
-Guatemala,94,92
-"Congo, Dem. Rep.",95,95
-Gabon,96,94
+Economy,ELECTRE ranking,Reference ranking,Rank difference
+United States,1,1,0
+United Kingdom,2,2,0
+Germany,3,5,2
+Netherlands,4,3,-1
+France,5,4,-1
+Canada,6,12,6
+Belgium,7,6,-1
+Italy,8,10,2
+Spain,8,8,0
+Singapore,10,7,-3
+United Arab Emirates,11,13,2
+China,12,9,-3
+Denmark,13,20,7
+"Korea, Rep.",13,11,-2
+"Hong Kong SAR, China",15,14,-1
+Japan,16,18,2
+Australia,17,19,2
+India,17,15,-2
+Malaysia,19,16,-3
+Sweden,20,21,1
+Ireland,21,27,6
+Thailand,22,24,2
+New Zealand,23,25,2
+Portugal,23,17,-6
+Poland,25,29,4
+Saudi Arabia,26,22,-4
+Finland,27,34,7
+Greece,28,26,-2
+"Taiwan, China",29,28,-1
+Turkey,29,23,-6
+Vietnam,31,32,1
+Cyprus,32,40,8
+Qatar,33,35,2
+Romania,33,42,9
+Norway,35,41,6
+Sri Lanka,36,31,-5
+Malta,37,38,1
+Lithuania,38,46,8
+Oman,38,45,7
+Slovenia,40,48,8
+Croatia,41,52,11
+Estonia,42,50,8
+Latvia,42,51,9
+Peru,42,44,2
+Indonesia,45,39,-6
+Bahrain,46,58,12
+Mexico,46,37,-9
+Morocco,46,33,-13
+Georgia,49,59,10
+Kenya,50,47,-3
+Brazil,51,36,-15
+Jordan,51,57,6
+Colombia,53,43,-10
+South Africa,53,30,-23
+Chile,55,54,-1
+Lebanon,55,62,7
+Pakistan,55,53,-2
+Cambodia,58,66,8
+"Egypt, Arab Rep.",59,55,-4
+Maldives,59,67,8
+Iraq,61,65,4
+Ghana,62,64,2
+Uruguay,63,61,-2
+Philippines,64,56,-8
+El Salvador,65,73,8
+Jamaica,65,70,5
+Panama,67,49,-18
+Mauritius,68,60,-8
+Aruba,69,78,9
+Madagascar,69,77,8
+Argentina,71,63,-8
+Ivory Coast,72,74,2
+Nigeria,73,75,2
+Nicaragua,74,87,13
+Kuwait,75,68,-7
+Myanmar,76,93,17
+St. Lucia,76,80,4
+Togo,76,83,7
+Cameroon,79,88,9
+Sint Maarten (Dutch part),79,72,-7
+Tunisia,79,81,2
+Antigua and Barbuda,82,79,-3
+Costa Rica,83,69,-14
+Bangladesh,84,76,-8
+Tanzania,84,82,-2
+Dominican Republic,86,71,-15
+Algeria,87,96,9
+Ecuador,88,91,3
+Angola,89,84,-5
+Barbados,89,85,-4
+Mozambique,91,89,-2
+Honduras,92,86,-6
+"Bahamas, The",93,90,-3
+Guatemala,94,92,-2
+"Congo, Dem. Rep.",95,95,0
+Gabon,96,94,-2
